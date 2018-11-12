@@ -1,5 +1,10 @@
 <template>
   <div>
+    <nav>
+      <nuxt-link to="/">Home</nuxt-link>
+      <nuxt-link to="/wip">Work In Progress</nuxt-link>
+      <nuxt-link to="/company">Company</nuxt-link>
+    </nav>
     <nuxt/>
   </div>
 </template>

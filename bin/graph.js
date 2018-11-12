@@ -10,7 +10,8 @@ const DEFAULT_STRUCT = {
 }
 
 const staticPath = path.join(__dirname, '..', '/static')
-const artistsPath = path.join(staticPath, '/artists')
+const dataPath = path.join(__dirname, '..', '/data')
+const artistsPath = path.join(dataPath, '/artists')
 const graph = {}
 
 function processFolder(folder) {
@@ -25,8 +26,6 @@ function processFolder(folder) {
     console.log(e)
   }
 }
-
-
 
 fs.readdir(artistsPath, (err, folders) => {
   if (err) return console.log('Unable to scan directory: ' + err)

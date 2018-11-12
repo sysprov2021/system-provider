@@ -1,17 +1,42 @@
 <template>
   <section class="container">
     <div>
-      <nuxt-link to="/wip">Work In Progress</nuxt-link>
+      <p>Production</p>
+      {{ production }}
+    </div>
+    <div>
+      <p>Tour</p>
+      {{ tour }}
+    </div>
+    <div>
+      <p>Local</p>
+      {{ local }}
     </div>
   </section>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+import artists from '~/static/graph.json'
 
 export default {
-  components: {
-    Logo
+  data() {
+    return {
+      artists: Object.entries(artists)
+    }
+  },
+
+  computed: {
+    production() {
+      return this.artists.filter(([key, val]) => ['prod', 'production'].includes(val.type))
+    },
+
+    tour() {
+      return this.artists.filter(([key, val]) => val.type === 'tour')
+    },
+
+    local() {
+      return this.artists.filter(([key, val]) => val.type === 'local')
+    }
   }
 }
 </script>
@@ -23,35 +48,4 @@ export default {
   @apply min-h-screen flex justify-center items-center text-center mx-auto;
 }
 */
-
-
-.container {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
 </style>
