@@ -1,3 +1,7 @@
+# CUSTOM
+static/img
+static/graph.json
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
@@ -79,4 +83,3 @@ dist
 
 # IDE
 .idea
-static/graph.json
