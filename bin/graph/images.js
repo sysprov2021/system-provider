@@ -14,17 +14,17 @@ function fileIsImageFilter(file) {
 }
 
 function resizeAndSave(inputFile, outputPath) {
-  // const filename = path.basename(inputFile)
-  // const small = path.join(outputPath, '/', `small_${filename}`)
-  // const def = path.join(outputPath, '/', filename)
+  const filename = path.basename(inputFile)
+  const small = path.join(outputPath, '/', `small_${filename}`)
+  const def = path.join(outputPath, '/', filename)
 
-  // sharp(inputFile)
-  //   .resize(IMAGE_VALUES.small)
-  //   .toFile(small);
+  sharp(inputFile)
+    .resize(IMAGE_VALUES.small)
+    .toFile(small);
 
-  // sharp(inputFile)
-  //   .resize(IMAGE_VALUES.def)
-  //   .toFile(def);
+  sharp(inputFile)
+    .resize(IMAGE_VALUES.def)
+    .toFile(def);
 }
 
 /**
