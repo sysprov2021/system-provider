@@ -1,5 +1,5 @@
 const path = require('path')
-const fs = require('fs')
+const fs = require('fs').promises
 const rimraf = require('rimraf')
 const { processFolder }= require('./graph/folders')
 const { PATHS } = require('./graph/constants')
@@ -9,21 +9,33 @@ async function createGraphFromFolder(inputPath) {
   const graph = {}
 
   // Cleanup the existing Images Path to avoid
-  if(fs.existsSync(PATHS.IMG))
-    await rimraf(PATHS.IMG, (e) => console.error(e))
+  await rimraf(PATHS.IMG, (e) => console.error(e))
 
-  fs.readdir(inputPath, (err, folders) => {
-    if (err) return console.log('Unable to scan directory: ' + err)
+  try {
+    const folders = await fs.readdir(inputPath)
 
-    folders.forEach(folder => {
-      graph[folder] = processFolder(folder, inputPath)
+    async function asyncForEach(array, callback) {
+      for (let index = 0; index < array.length; index++) {
+        await callback(array[index], index, array);
+      }
+    }
+
+    await asyncForEach(folders, async (folder) => {
+      const data = await processFolder(folder, inputPath)
+      graph[folder] = data
     })
 
-    fs.writeFile(`${PATHS.STATIC}/graph.json`, JSON.stringify(graph), function (err) {
-      if (err) return console.log(err)
+    try {
+      await fs.writeFile(`${PATHS.STATIC}/graph.json`, JSON.stringify(graph))
       console.log("Graph file generated!");
-    });
-  })
+    } catch (err) {
+      console.error(err)
+    }
+  } catch(err) {
+    if (err) return console.log('Unable to scan directory: ' + err)
+  }
+
+
 }
 
 const artistsPath = path.join(PATHS.DATA, '/artists')

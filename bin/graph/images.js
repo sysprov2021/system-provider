@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs').promises
 const path = require('path')
 const sharp = require('sharp')
 const { PATHS } = require('./constants')
@@ -14,51 +14,46 @@ function fileIsImageFilter(file) {
 }
 
 function resizeAndSave(inputFile, outputPath) {
-  const fileExtension = path.extname(inputFile)
-  const fileName = path.basename(inputFile, fileExtension)
-  const name = `${fileName}.${fileExtension}`
+  // const filename = path.basename(inputFile)
+  // const small = path.join(outputPath, '/', `small_${filename}`)
+  // const def = path.join(outputPath, '/', filename)
 
-  const small = path.join(outputPath, '/', `small_${name}`)
-  const def = path.join(outputPath, '/', name)
+  // sharp(inputFile)
+  //   .resize(IMAGE_VALUES.small)
+  //   .toFile(small);
 
-  sharp(inputFile)
-    .resize(IMAGE_VALUES.small)
-    .toFile(small);
-
-  sharp(inputFile)
-    .resize(IMAGE_VALUES.def)
-    .toFile(def);
-
-  return fileName
+  // sharp(inputFile)
+  //   .resize(IMAGE_VALUES.def)
+  //   .toFile(def);
 }
 
 /**
  *
  * @param {string} currentPath
- * @param {string} outputPath
  * @param {string} folder
  */
-function processImages(currentPath, folder) {
+async function processImages(currentPath, folder) {
   let data = {
     title: undefined,
     images: []
   }
 
-  fs.readdir(currentPath, (err, files) => {
-    const images = files.filter(fileIsImageFilter)
-    const outputPath = path.join(PATHS.IMG, '/', folder)
+  const files = await fs.readdir(currentPath)
+  const images = files.filter(fileIsImageFilter)
 
-    if(images.length > 0)
-      fs.mkdirSync(outputPath, { recursive: true })
+  if(images.length === 0) return data
+  const outputPath = path.join(PATHS.IMG, '/', folder)
+  await fs.mkdir(outputPath, { recursive: true })
 
-    images.forEach(image => {
-      const inputFile = path.join(currentPath, '/', image)
-      const fileName = resizeAndSave(inputFile, outputPath)
-      if(fileName === 'title')
-        data.title = image
-      else
-        data.images.push(image)
-    })
+  images.forEach(async image => {
+    const inputFile = path.join(currentPath, '/', image)
+    const fileNameWithoutExtension = path.basename(inputFile, path.extname(inputFile))
+    resizeAndSave(inputFile, outputPath)
+
+    if (fileNameWithoutExtension === 'title')
+      data.title = image
+    else
+      data.images.push(image)
   })
 
   return data

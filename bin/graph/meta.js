@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs').promises
 const yaml = require('js-yaml')
 
 const DEFAULT_STRUCT = {
@@ -8,16 +8,16 @@ const DEFAULT_STRUCT = {
   spc: [],
 }
 
-
-function processMetaFile(metaFilePath) {
+async function processMetaFile(metaFilePath) {
   let data
   try {
-    const metaFileStream = fs.readFileSync(metaFilePath, 'utf8')
+    const metaFileStream = await fs.readFile(metaFilePath, 'utf8')
     const doc = yaml.safeLoad(metaFileStream);
     data = Object.assign({}, DEFAULT_STRUCT, doc)
-  } catch (e) {
-    if (e.code === 'ENOENT') return console.log(`Folder "${folder}" has no valid "meta.yml"!`, '\n')
-    console.log(e)
+  } catch (err) {
+    if (err.code === 'ENOENT')
+      return console.log(`Folder "${folder}" has no valid "meta.yml"!`, '\n')
+    console.error(err)
   }
   return data
 }
