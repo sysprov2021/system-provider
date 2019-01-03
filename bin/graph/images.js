@@ -13,18 +13,23 @@ function fileIsImageFilter(file) {
  return ['.jpg', '.jpeg', '.png'].includes(fileExtension)
 }
 
-function resizeAndSave(inputFile, outputPath) {
+async function resizeAndSave(inputFile, outputPath) {
   const filename = path.basename(inputFile)
   const small = path.join(outputPath, '/', `small_${filename}`)
   const def = path.join(outputPath, '/', filename)
 
-  sharp(inputFile)
-    .resize(IMAGE_VALUES.small)
-    .toFile(small);
+  try {
+    sharp(inputFile)
+      .resize(IMAGE_VALUES.small)
+      .toFile(small);
 
-  sharp(inputFile)
-    .resize(IMAGE_VALUES.def)
-    .toFile(def);
+    sharp(inputFile)
+      .resize(IMAGE_VALUES.def)
+      .toFile(def);
+  } catch (err) {
+    console.error(err)
+  }
+
 }
 
 /**

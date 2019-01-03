@@ -14,11 +14,19 @@ async function createGraphFromFolder(inputPath) {
   const graph = {}
 
   // Cleanup the existing Images Path to avoid
-  await rimraf(PATHS.IMG, (e) => console.error(e))
+  await new Promise(function(resolve, reject) {
+    rimraf(PATHS.IMG, (err) => {
+      if(err) {
+        reject(err)
+      }
+      resolve(true)
+    })
+  })
 
   try {
     const folders = await fs.readdir(inputPath)
 
+    // Await all folder processes and operations to be done before writing a graph file
     await asyncForEach(folders, async (folder) => {
       const data = await processFolder(folder, inputPath)
       graph[folder] = data
