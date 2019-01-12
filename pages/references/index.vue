@@ -13,12 +13,14 @@
 </template>
 
 <script>
-import artists from '~/static/graph.json'
+import graph from '~/static/graph.json'
+
+const allArtists = Object.entries(graph.artists)
 
 export default {
   data() {
     return {
-      artists
+      artists: allArtists
     }
   }
 }

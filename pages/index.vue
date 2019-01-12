@@ -2,26 +2,46 @@
   <section class="container">
     <div>
       <p>Production</p>
-      {{ production }}
+      <News
+        v-for="n in production"
+        :key="n[0]"
+        :data="n"
+      />
     </div>
     <div>
       <p>Tour</p>
-      {{ tour }}
+      <News
+        v-for="n in tour"
+        :key="n[0]"
+        :data="n"
+      />
     </div>
     <div>
       <p>Local</p>
-      {{ local }}
+      <News
+        v-for="n in local"
+        :key="n[0]"
+        :data="n"
+      />
     </div>
   </section>
 </template>
 
 <script>
-import artists from '~/static/graph.json'
+import News from '~/components/news'
+import graph from '~/static/graph.json'
+
+const allArtists = Object.entries(graph.artists)
+const news = graph.pages.news
 
 export default {
+  components: {
+    News
+  },
+
   data() {
     return {
-      artists: Object.entries(artists)
+      artists: allArtists.filter(([key, val]) => news.includes(key))
     }
   },
 
