@@ -2,6 +2,7 @@ const path = require('path')
 const fs = require('fs').promises
 const rimraf = require('rimraf')
 const { processFolder }= require('./graph/folders')
+const { processYamlFile } = require('./graph/file')
 const { PATHS } = require('./graph/constants')
 
 async function asyncForEach(array, callback) {
@@ -24,15 +25,25 @@ async function createGraphFromFolder(inputPath) {
   })
 
   try {
+    const folderName = path.basename(inputPath)
     const folders = await fs.readdir(inputPath)
 
+    graph[folderName] = {}
     // Await all folder processes and operations to be done before writing a graph file
     await asyncForEach(folders, async (folder) => {
       const data = await processFolder(folder, inputPath)
-      graph[folder] = data
+      graph[folderName][folder] = data
     })
   } catch(err) {
     if (err) return console.log('Unable to scan directory: ' + err)
+  }
+
+  try {
+    graph.pages = {}
+    const newsContent = await processYamlFile(path.join(PATHS.DATA, '/news.yml'))
+    Object.assign(graph.pages, newsContent)
+  } catch (err) {
+    console.error(err)
   }
 
   try {
@@ -41,8 +52,6 @@ async function createGraphFromFolder(inputPath) {
   } catch (err) {
     console.error(err)
   }
-
-
 }
 
 const artistsPath = path.join(PATHS.DATA, '/artists')

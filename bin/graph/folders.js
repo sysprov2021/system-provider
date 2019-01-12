@@ -1,5 +1,5 @@
 const path = require('path')
-const { processMetaFile } = require('./meta')
+const { processYamlFile } = require('./file')
 const { processImages } = require('./images')
 
 /**
@@ -12,7 +12,12 @@ async function processFolder(folder, inputPath) {
   const metaFilePath = path.join(currentPath, '/meta.yml')
 
   // Process available images, and return list of imagepath
-  const metaContent = await processMetaFile(metaFilePath)
+  const metaContent = await processYamlFile(metaFilePath, {
+    date: '',
+    location: '',
+    type: '', // prod - tour - local
+    spc: [],
+  })
   const images = await processImages(currentPath, folder)
   const data = Object.assign(metaContent, images)
 
