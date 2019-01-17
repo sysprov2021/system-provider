@@ -2,9 +2,8 @@
   <div>
     <nav>
       <nuxt-link to="/">Home</nuxt-link>
-      <nuxt-link to="/">Work In Progress</nuxt-link>
-      <nuxt-link to="/company">Company</nuxt-link>
       <nuxt-link to="/references">References</nuxt-link>
+      <nuxt-link to="/company">Company</nuxt-link>
       <nuxt-link to="/contact">Contact</nuxt-link>
     </nav>
     <nuxt/>
