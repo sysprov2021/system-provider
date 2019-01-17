@@ -3,10 +3,12 @@
     <h1>References</h1>
     <ul>
       <li
-        v-for="(artist, key) in artists"
-        :key="key"
+        v-for="[name, meta] in artists"
+        :key="name"
       >
-        {{ artist }}
+        <h2>{{ name }}</h2>
+        <p>{{ meta }}</p>
+        <nuxt-link :to="`/references/${name}`">VISIT</nuxt-link>
       </li>
     </ul>
   </div>

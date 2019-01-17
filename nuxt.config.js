@@ -1,4 +1,11 @@
 const pkg = require('./package')
+const graph = require('./static/graph.json')
+
+const artists = Object.keys(graph.artists)
+
+function mapArtistsToRoutes() {
+  return artists.map(a => `/references/${a}`)
+}
 
 module.exports = {
   mode: 'universal',
@@ -75,5 +82,9 @@ module.exports = {
 
 
     }
+  },
+
+  generate: {
+    routes: mapArtistsToRoutes()
   }
 }
