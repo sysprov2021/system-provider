@@ -5,7 +5,7 @@ const { PATHS } = require('./constants')
 
 const IMAGE_VALUES = {
   def: 1200,
-  small: 200
+  small: 400
 }
 
 function fileIsImageFilter(file) {
