@@ -26,13 +26,14 @@ async function createGraphFromFolder(inputPath) {
 
   try {
     const folderName = path.basename(inputPath)
-    const folders = await fs.readdir(inputPath)
+    const folders = await fs.readdir(inputPath, { withFileTypes: true })
 
     graph[folderName] = {}
     // Await all folder processes and operations to be done before writing a graph file
     await asyncForEach(folders, async (folder) => {
-      const data = await processFolder(folder, inputPath)
-      graph[folderName][folder] = data
+      if(!folder.isDirectory()) return
+      const data = await processFolder(folder.name, inputPath)
+      graph[folderName][folder.name] = data
     })
   } catch(err) {
     if (err) return console.log('Unable to scan directory: ' + err)
