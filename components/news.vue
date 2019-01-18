@@ -1,10 +1,11 @@
 <template>
-  <div>
+  <div class="p-3 relative">
     <img
-      :src="`/img/${name}/small_${value.title}`"
+      :src="titleImgPath"
       :alt="name"
+      class="w-full "
     >
-    <h2>{{ name }}</h2>
+    <h2 class="title">{{ name }}</h2>
   </div>
 </template>
 
@@ -22,10 +23,23 @@
         name: this.data[0],
         value: this.data[1]
       };
+    },
+
+    computed: {
+      titleImgPath() {
+        return this.value.title ? `/img/${this.name}/small_${this.value.title}` : '/title-default.jpeg'
+      }
     }
   }
 </script>
 
 <style scoped>
+
+.title {
+  @apply absolute px-2 py-1;
+  top: 20px;
+  left: 20px;
+  background: white;
+}
 
 </style>

@@ -1,6 +1,6 @@
 <template>
-  <section class="container">
-    <div>
+  <section class="flex">
+    <div class="flex-1">
       <p>Production</p>
       <News
         v-for="n in production"
@@ -8,7 +8,7 @@
         :data="n"
       />
     </div>
-    <div>
+    <div class="flex-1">
       <p>Tour</p>
       <News
         v-for="n in tour"
@@ -16,7 +16,7 @@
         :data="n"
       />
     </div>
-    <div>
+    <div class="flex-1">
       <p>Local</p>
       <News
         v-for="n in local"

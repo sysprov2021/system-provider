@@ -6,7 +6,9 @@
       <nuxt-link to="/company">Company</nuxt-link>
       <nuxt-link to="/contact">Contact</nuxt-link>
     </nav>
-    <nuxt/>
+    <div class="container">
+      <nuxt/>
+    </div>
   </div>
 </template>
 
