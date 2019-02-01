@@ -1,30 +1,43 @@
 <template>
-  <section class="flex">
-    <div class="flex-1">
-      <p>Production</p>
-      <News
-        v-for="n in production"
-        :key="n[0]"
-        :data="n"
-      />
+  <div>
+    <div class="pageTitle">
+      <div class="divider">
+        <span/>
+        <span/>
+        <span/>
+      </div>
     </div>
-    <div class="flex-1">
-      <p>Tour</p>
-      <News
-        v-for="n in tour"
-        :key="n[0]"
-        :data="n"
-      />
+    <div class="container">
+      <section class="flex">
+        <div class="flex-1">
+          <p>Production</p>
+          <News
+            v-for="n in production"
+            :key="n[0]"
+            :data="n"
+          />
+        </div>
+        <div class="flex-1">
+          <p>Tour</p>
+          <News
+            v-for="n in tour"
+            :key="n[0]"
+            :data="n"
+          />
+        </div>
+        <div class="flex-1">
+          <p>Local</p>
+          <News
+            v-for="n in local"
+            :key="n[0]"
+            :data="n"
+          />
+        </div>
+      </section>
     </div>
-    <div class="flex-1">
-      <p>Local</p>
-      <News
-        v-for="n in local"
-        :key="n[0]"
-        :data="n"
-      />
-    </div>
-  </section>
+  </div>
+
+
 </template>
 
 <script>
@@ -61,11 +74,41 @@ export default {
 }
 </script>
 
-<style>
+<style lang="sass">
 
-/* Sample `apply` at-rules with Tailwind CSS
-.container {
-  @apply min-h-screen flex justify-center items-center text-center mx-auto;
-}
-*/
+.container
+  padding-top: 50vh
+
+.pageTitle
+  background-image: url(/pages/home/bg.jpg)
+  height: 50vh
+  background-position: center
+  background-size: cover
+  position: fixed
+  left: 0
+  top: 0
+  width: 100%
+  z-index: -1
+  pointer-events: none
+
+  .divider
+    position: absolute
+    bottom: 0
+    height: 5px
+    @apply flex items-center flex-no-wrap justify-between
+    width: 100%
+
+    span
+      width: 100%
+      height: 100%
+
+      &:nth-child(1)
+        background: #701871
+
+      &:nth-child(2)
+        background: #2A686B
+
+      &:nth-child(3)
+        background: #887522
+
 </style>

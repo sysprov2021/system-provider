@@ -1,63 +1,104 @@
 <template>
   <div>
-    <nav>
-      <nuxt-link to="/">Home</nuxt-link>
-      <nuxt-link to="/references">References</nuxt-link>
-      <nuxt-link to="/company">Company</nuxt-link>
-      <nuxt-link to="/contact">Contact</nuxt-link>
+    <nav class="mainMenu">
+      <div>
+        <nuxt-link to="/">
+          <img
+            src="~/assets/logo.png"
+            alt="System Provider">
+        </nuxt-link>
+      </div>
+      <div style="flex: 1">
+        <nuxt-link
+          to="/"
+          class="link"
+        >Home <span>Work in progress</span></nuxt-link>
+        <nuxt-link
+          to="/company"
+          class="link"
+        >Company <span>Our force</span></nuxt-link>
+        <nuxt-link
+          to="/references"
+          class="link"
+        >References <span>What we did</span></nuxt-link>
+      </div>
+      <div class="pr-4">
+        <nuxt-link
+          to="/contact"
+          class="link text-right -reverse"
+        >Contact <span>Reach out to us</span></nuxt-link>
+      </div>
     </nav>
-    <div class="container">
+    <div>
       <nuxt/>
     </div>
   </div>
 </template>
 
-<style>
-html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
+<script>
+export default {
+  created() {
+    console.log(new Date)
+  }
 }
+</script>
+
+
+<style lang="sass">
+html
+  font-family: Arial, -apple-system , BlinkMacSystemFont, 'Helvetica Neue', sans-serif
+  font-size: 16px
+  word-spacing: 1px
+  -ms-text-size-adjust: 100%
+  -webkit-text-size-adjust: 100%
+  -moz-osx-font-smoothing: grayscale
+  -webkit-font-smoothing: antialiased
+  box-sizing: border-box
+  background: config('colors.black')
+
+a
+  @apply text-white
 
 *,
 *:before,
-*:after {
-  box-sizing: border-box;
-  margin: 0;
-}
+*:after
+  box-sizing: border-box
+  margin: 0
 
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
-}
+.mainMenu
+  @apply flex flex-row items-center justify-between
+  border-bottom: 1px solid rgba(#fff, .1)
+  background: rgba(#151515, .8)
+  height: 4rem
+  overflow-x: hidden
+  position: fixed
+  left: 0
+  top: 0
+  width: 100%
 
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
-}
+  .link
+    @apply px-4 py-2 relative font-bold no-underline
+    font-size: 1.2rem
 
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
+    span
+      @apply absolute whitespace-no-wrap font-light italic font-serif inline-block pl-4 text-grey-dark opacity-0
+      font-size: 1rem
+      left: 0
+      bottom: -.6rem
+      transition: opacity 300ms
 
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
-}
+    &.-reverse
+      span
+        left: auto
+        right: 0
+        @apply pl-0 pr-4
+
+    &:hover
+
+      span
+        @apply opacity-100
+
+
+
+
 </style>
