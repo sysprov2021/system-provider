@@ -1,20 +1,17 @@
 <template>
-  <div>
-    <h1>ARTIST</h1>
+  <Content title="Artist">
     {{ artist }}
-  </div>
+  </Content>
 </template>
 
 <script>
-  import graph from '~/static/graph.json'
-
-  export default {
-    data() {
-      return {
-        artist: graph.artists[this.$route.params.name]
-      }
+export default {
+  data() {
+    return {
+      artist: $graph.artists[this.$route.params.name]
     }
   }
+}
 </script>
 
 <style scoped>

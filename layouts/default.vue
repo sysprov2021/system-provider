@@ -12,15 +12,15 @@
         <nuxt-link
           to="/"
           class="link"
-        >Home <span>Work in progress</span></nuxt-link>
+        >Home<span>Work in progress</span></nuxt-link>
         <nuxt-link
           to="/company"
           class="link"
-        >Company <span>Our force</span></nuxt-link>
+        >Company<span>Our force</span></nuxt-link>
         <nuxt-link
           to="/references"
           class="link"
-        >References <span>What we did</span></nuxt-link>
+        >References<span>What we did</span></nuxt-link>
       </div>
       <div class="pr-4">
         <nuxt-link
@@ -79,6 +79,9 @@ a
   .link
     @apply px-4 py-2 relative font-bold no-underline
     font-size: 1.2rem
+
+    &.nuxt-link-exact-active
+      @apply text-grey-dark opacity-50
 
     span
       @apply absolute whitespace-no-wrap font-light italic font-serif inline-block pl-4 text-grey-dark opacity-0

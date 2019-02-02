@@ -1,51 +1,45 @@
 <template>
-  <div>
-    <div class="pageTitle">
-      <div class="divider">
-        <span/>
-        <span/>
-        <span/>
+  <Content>
+    <template slot="title">
+      <div class="welcome">
+        <h1>Welcome</h1>
+        <h2>to System Provider</h2>
       </div>
-    </div>
-    <div class="container">
-      <section class="flex">
-        <div class="flex-1">
-          <p>Production</p>
-          <News
-            v-for="n in production"
-            :key="n[0]"
-            :data="n"
-          />
-        </div>
-        <div class="flex-1">
-          <p>Tour</p>
-          <News
-            v-for="n in tour"
-            :key="n[0]"
-            :data="n"
-          />
-        </div>
-        <div class="flex-1">
-          <p>Local</p>
-          <News
-            v-for="n in local"
-            :key="n[0]"
-            :data="n"
-          />
-        </div>
-      </section>
-    </div>
-  </div>
-
-
+    </template>
+    <section class="flex">
+      <div class="flex-1">
+        <p>Production</p>
+        <News
+          v-for="n in production"
+          :key="n[0]"
+          :data="n"
+        />
+      </div>
+      <div class="flex-1">
+        <p>Tour</p>
+        <News
+          v-for="n in tour"
+          :key="n[0]"
+          :data="n"
+        />
+      </div>
+      <div class="flex-1">
+        <p>Local</p>
+        <News
+          v-for="n in local"
+          :key="n[0]"
+          :data="n"
+        />
+      </div>
+    </section>
+  </Content>
 </template>
 
 <script>
 import News from '~/components/news'
-import graph from '~/static/graph.json'
 
-const allArtists = Object.entries(graph.artists)
-const news = graph.pages.news
+const allArtists = Object.entries($graph.artists)
+const news = $graph.pages.news
 
 export default {
   components: {
@@ -75,40 +69,13 @@ export default {
 </script>
 
 <style lang="sass">
+.welcome
+  @apply text-left pl-6
 
-.container
-  padding-top: 50vh
+  h1
+    font-size: 3rem
 
-.pageTitle
-  background-image: url(/pages/home/bg.jpg)
-  height: 50vh
-  background-position: center
-  background-size: cover
-  position: fixed
-  left: 0
-  top: 0
-  width: 100%
-  z-index: -1
-  pointer-events: none
-
-  .divider
-    position: absolute
-    bottom: 0
-    height: 5px
-    @apply flex items-center flex-no-wrap justify-between
-    width: 100%
-
-    span
-      width: 100%
-      height: 100%
-
-      &:nth-child(1)
-        background: #701871
-
-      &:nth-child(2)
-        background: #2A686B
-
-      &:nth-child(3)
-        background: #887522
-
+  h2
+    @apply font-serif italic font-normal
+    font-size: 2rem
 </style>

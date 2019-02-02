@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <h1>References</h1>
+  <Content title="References">
     <ul>
       <li
         v-for="[name, meta] in artists"
@@ -11,13 +10,11 @@
         <nuxt-link :to="`/references/${name}`">VISIT</nuxt-link>
       </li>
     </ul>
-  </div>
+  </Content>
 </template>
 
 <script>
-import graph from '~/static/graph.json'
-
-const allArtists = Object.entries(graph.artists)
+const allArtists = Object.entries($graph.artists)
 
 export default {
   data() {
