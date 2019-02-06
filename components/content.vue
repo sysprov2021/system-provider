@@ -2,6 +2,7 @@
   <div>
     <div
       :style="bg"
+      :class="{scrolled: scrolled}"
       class="pageTitleWrapper"
     >
       <h1
@@ -38,13 +39,34 @@
       }
     },
 
+    data() {
+      return {
+        scrolled: false
+      }
+    },
+
     computed: {
       bg() {
         return {
           backgroundImage: `url(/pages/${this.page}/bg.jpg)`
         }
       }
-    }
+    },
+    created () {
+      if (process.browser)
+        window.addEventListener('scroll', this.handleScroll);
+    },
+
+    destroyed() {
+      if (process.browser)
+        window.removeEventListener('scroll', this.handleScroll);
+    },
+
+    methods: {
+      handleScroll() {
+        this.scrolled = window.scrollY > 0;
+      }
+    },
   }
 </script>
 
@@ -52,6 +74,7 @@
 
 .container
   padding-top: 50vh
+  margin-top: 2rem
   @apply text-white
 
 .pageTitleWrapper
@@ -64,6 +87,11 @@
   width: 100%
   z-index: -1
   pointer-events: none
+  opacity: 1
+  transition: opacity 500ms
+
+  &.scrolled
+    opacity: 0.3
 
   .pageTitle
     @apply text-center absolute

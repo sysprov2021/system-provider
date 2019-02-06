@@ -57,7 +57,16 @@ html
   background: config('colors.black')
 
 a
-  @apply text-white
+  @apply text-white no-underline
+
+.container a
+  display: inline-block
+  font-size: .8rem
+  border-bottom: 1px dotted rgba(#fff, .5)
+
+  &:hover
+    border-bottom: 1px dotted #fff
+
 
 *,
 *:before,
@@ -100,8 +109,4 @@ a
 
       span
         @apply opacity-100
-
-
-
-
 </style>

@@ -1,14 +1,29 @@
 <template>
-  <div>
-    <img
-      :src="`/pages/contact/${img}`"
-      :alt="name"
-      width="80px"
-    >
-    <p>{{ name }}</p>
-    <p>{{ mobile | clean }} - {{ mobile }}</p>
-    <p>{{ tel | clean }} - {{ tel }}</p>
-    <p>{{ mail }}</p>
+  <div class="contact">
+    <div class="flex">
+      <div>
+        <img
+          :src="`/pages/contact/${img}`"
+          :alt="name"
+          class="avatar"
+        >
+      </div>
+      <div class="meta">
+        <p><strong>{{ name }}</strong></p>
+        <ul>
+          <li>
+            <a :href="'tel:' + mobile | clean">{{ mobile }}</a>
+          </li>
+          <li>
+            <a :href="'tel:' + tel | clean">{{ tel }}</a>
+          </li>
+          <li>
+            <a :href="'mailto:' + mail">{{ mail }}</a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
   </div>
 </template>
 
@@ -44,6 +59,18 @@
   }
 </script>
 
-<style scoped>
+<style lang="sass" scoped>
+.contact
+  @apply my-1 p-1 mb-4
 
+.meta
+  @apply px-2
+
+  ul
+    list-style: none
+    padding: 1rem 0
+    line-height: 1.4rem
+
+.avatar
+  width: 60px
 </style>
