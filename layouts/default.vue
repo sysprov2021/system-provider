@@ -84,6 +84,7 @@ a
   left: 0
   top: 0
   width: 100%
+  z-index: 100
 
   .link
     @apply px-4 py-2 relative font-bold no-underline

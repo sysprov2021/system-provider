@@ -1,6 +1,7 @@
 <template>
   <Content title="References">
-    <ul>
+    <h1>Soon to be back! 😊</h1>
+    <!-- <ul>
       <li
         v-for="[name, meta] in artists"
         :key="name"
@@ -9,7 +10,7 @@
         <p>{{ meta }}</p>
         <nuxt-link :to="`/references/${name}`">VISIT</nuxt-link>
       </li>
-    </ul>
+    </ul> -->
   </Content>
 </template>
 
