@@ -1,5 +1,8 @@
 <template>
-  <Content title="Company">
+  <Content
+    title="Company"
+    page="company"
+  >
     <div v-html="html" />
   </Content>
 </template>

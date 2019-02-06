@@ -1,5 +1,8 @@
 <template>
-  <Content title="Contact">
+  <Content
+    title="Contact"
+    page="contact"
+  >
     <div class="flex">
       <div>
         <h2>Managing Director and Owner</h2>
