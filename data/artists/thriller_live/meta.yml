@@ -2,17 +2,17 @@ name: Thriller Live
 date: 02.10.2018 - 14.04.2019
 location: Germany, Luxemburg, Austria
 type: tour
-headline: System Provider Competence since 2009
-spc:
-  - technical supervising
-  - technical staff
-  - kinetik development
-  - additional sound equipment
-  - additional lighting equipment
-  - additional rigging equipment
-  - masking
-content: |
-  2009 - 2012 / 2014 / 2015 / 2018
 videos:
-  - https://youtu.be/DOTMk--qTNs
-
+  - https://www.youtube.com/embed/DOTMk--qTNs
+tickets:
+  - title: Tickets Germany
+    url: https://shop.tickets-direkt.de/webshop/webticket/seatmap?eventId=1965
+  - title: Tickets Luxemburg
+    url: https://shop.tickets-direkt.de/webshop/webticket/eventlist?production=108&map%5B%27venue%27%5D=117
+  - title: Tickets Austria
+    url: https://www.oeticket.com/thriller-live-wien-tickets.html?affiliate=EOE&doc=artistPages%2Ftickets&fun=artist&action=tickets&key=1917821%2410674679&jumpIn=yTix&kuid=552687&from=erdetaila
+links:
+  - title: Tour Promoter
+    url: http://www.bb-promotion.com/veranstaltungen/thriller-live/
+  - title: Official Homepage
+    url: http://www.thrillerlive.co.uk/

@@ -10,12 +10,12 @@
     </template>
     <div class="flex">
       <div class="w-2/3">
-        <h2>{{ artist.date }} / {{ artist.location }}</h2>
+        <h2>{{ artist.date }} <span v-if="artist.date && artist.location">/</span> {{ artist.location }}</h2>
         <div
           class="markdown"
           v-html="content"
         />
-        <div class="grid">
+        <div class="flex">
           <div
             v-for="(video, index) in artist.videos"
             :key="index"
@@ -49,14 +49,21 @@
       </div>
       <div>
         <ul class="list-reset pl-2 border-l-2">
+          <li v-if="artist.promoter">
+            <p>Tour Promoter</p>
+            <p>{{ artist.promoter }}</p>
+          </li>
           <li
             v-for="link in artist.links"
             :key="link.title"
           >
             <a :href="link.url">{{ link.title }}</a>
           </li>
-          <li v-if="artist.tickets">
-            <a :href="artist.tickets">Tickets</a>
+          <li
+            v-for="ticket in artist.tickets"
+            :key="ticket.title"
+          >
+            <a :href="ticket.url">{{ ticket.title }}</a>
           </li>
         </ul>
       </div>

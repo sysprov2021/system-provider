@@ -4,7 +4,9 @@ location: Amsterdam
 type: prod
 videos:
   - https://www.youtube.com/embed/DOc9eO61COI
-tickets: http://www.carmen-la-cubana.de/tickets/
+tickets:
+  - title: Tickets
+    url: http://www.carmen-la-cubana.de/tickets/
 links:
   - title: Tour Promoter
     url: http://www.bb-promotion.com/veranstaltungen/carmen-la-cubana/

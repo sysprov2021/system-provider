@@ -6,7 +6,10 @@
         :alt="info.name"
         class="w-full img"
       >
-      <h2 class="title">{{ info.name }}</h2>
+      <h2
+        :class="type"
+        class="title">{{ info.name }}</h2>
+      <span class="date">{{ info.date }}</span>
     </div>
   </nuxt-link>
 </template>
@@ -17,6 +20,10 @@
       data:{
        type: Array,
        default: () => []
+      },
+      type: {
+        type: String,
+        default: ''
       }
     },
 
@@ -41,6 +48,23 @@
   @apply absolute px-2 py-1 bg-black
   top: 20px
   left: 20px
+  z-index: 3
+  font-size: 2rem
+
+  &.prod
+    background: #701871
+
+  &.tour
+    background: #2A686B
+
+  &.local
+    background: #887522
+
+.date
+  @apply inline-block absolute px-2 py-1 bg-black
+  right: 20px
+  bottom: 20px
+  font-size: 1.2rem
   z-index: 3
 
 .news

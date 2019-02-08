@@ -1,0 +1,16 @@
+name: Die Schöne und das Biest
+date: 04.07.2018 - 20.01.2019
+location: Germany, Austria
+type: tour
+videos:
+  - https://www.youtube.com/embed/CODE
+tickets:
+  - title: Tickets Germany
+    url: https://www.eventim.de/Tickets.html?affiliate=BBP&doc=search%2Fsearch&fun=search&action=power&comefrom=search%2FextendedSearch&detailadoc=erdetaila&detailbdoc=evdetailb&fuzzy=yes&isSent=true&kudoc=artist&ort=Leipzig&show=20&suchbegriff=Disney+DIE+SCH%C3%96NE+UND+DAS+BIEST&week=-3&zeit=von&sort_by=evdatum&sort_direction=asc
+  - title: Tickets Austria
+    url: https://www.oeticket.com/tickets.html?affiliate=EOE&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=1590166&includeOnlybookable=false&x10=1&x11=die%20sch%C3%B6ne
+links:
+  - title: Tour Promoter
+    url: http://www.bb-promotion.com/veranstaltungen/disney-die-schoene-und-das-biest/
+  - title: Official Homepage
+    url: http://www.die-schoene-und-das-biest-musical.de/

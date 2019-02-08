@@ -8,27 +8,45 @@
     </template>
     <section class="flex">
       <div class="flex-1">
-        <p>Production</p>
+        <div class="groupTitle text-center">
+          <img
+            src="~/assets/icon_prod.svg"
+            alt="Production">
+          <p>Production</p>
+        </div>
         <News
           v-for="n in production"
           :key="n[0]"
           :data="n"
+          type="prod"
         />
       </div>
       <div class="flex-1">
-        <p>Tour</p>
+        <div class="groupTitle text-center">
+          <img
+            src="~/assets/icon_tour.svg"
+            alt="Tour Consulting">
+          <p>Tour Consulting</p>
+        </div>
         <News
           v-for="n in tour"
           :key="n[0]"
           :data="n"
+          type="tour"
         />
       </div>
       <div class="flex-1">
-        <p>Local</p>
+        <div class="groupTitle text-center">
+          <img
+            src="~/assets/icon_local.svg"
+            alt="Local Productions">
+          <p>Local Productions</p>
+        </div>
         <News
           v-for="n in local"
           :key="n[0]"
           :data="n"
+          type="local"
         />
       </div>
     </section>
@@ -78,4 +96,8 @@ export default {
   h2
     @apply font-serif italic font-normal
     font-size: 2rem
+
+.groupTitle
+  p
+    @apply m-2 mt-6 uppercase
 </style>
