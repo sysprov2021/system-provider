@@ -1,15 +1,19 @@
 <template>
-  <nuxt-link :to="`/references/${key}`">
+  <nuxt-link
+    :to="`/references/${key}`"
+    class="border-none">
     <div class="p-3 relative news">
       <img
         :src="titleImgPath"
         :alt="info.name"
         class="w-full img"
       >
-      <h2
+      <div class="title">
+        <h2 :class="type">{{ info.name }}</h2>
+      </div>
+      <span
         :class="type"
-        class="title">{{ info.name }}</h2>
-      <span class="date">{{ info.date }}</span>
+        class="date">{{ info.date }}</span>
     </div>
   </nuxt-link>
 </template>
@@ -45,12 +49,32 @@
 <style lang="sass" scoped>
 
 .title
-  @apply absolute px-2 py-1 bg-black
+  @apply absolute px-2 py-1
+  max-width: 90%
   top: 20px
   left: 20px
   z-index: 3
-  font-size: 2rem
+  font-size: 1.4rem
 
+  h2
+    @apply inline px-2
+    line-height: 1.2em
+
+    &.prod
+      background: #701871
+
+    &.tour
+      background: #2A686B
+
+    &.local
+      background: #887522
+
+.date
+  @apply inline-block absolute px-2 py-1 bg-black
+  right: 20px
+  bottom: 20px
+  font-size: 1.2rem
+  z-index: 3
   &.prod
     background: #701871
 
@@ -59,13 +83,6 @@
 
   &.local
     background: #887522
-
-.date
-  @apply inline-block absolute px-2 py-1 bg-black
-  right: 20px
-  bottom: 20px
-  font-size: 1.2rem
-  z-index: 3
 
 .news
   &::before,

@@ -67,6 +67,8 @@ a
   &:hover
     border-bottom: 1px dotted #fff
 
+  &.border-none
+    border: 0
 
 *,
 *:before,

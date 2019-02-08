@@ -6,7 +6,7 @@
         <h2>to System Provider</h2>
       </div>
     </template>
-    <section class="flex">
+    <section class="flex justify-center">
       <div class="flex-1">
         <div class="groupTitle text-center">
           <img
@@ -98,6 +98,8 @@ export default {
     font-size: 2rem
 
 .groupTitle
+  img
+    width: 100px
   p
-    @apply m-2 mt-6 uppercase
+    @apply m-2 mt-6 uppercase font-bold
 </style>
