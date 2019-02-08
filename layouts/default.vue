@@ -110,4 +110,16 @@ a
 
       span
         @apply opacity-100
+
+.markdown
+  p
+    @apply my-2
+    max-width: 40rem
+
+  ul
+    @apply py-2
+    list-style-type: '✅'
+    li
+      @apply my-2 pl-4
+
 </style>
