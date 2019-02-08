@@ -1,12 +1,14 @@
 <template>
-  <div class="p-3 relative news">
-    <img
-      :src="titleImgPath"
-      :alt="info.name"
-      class="w-full img"
-    >
-    <h2 class="title">{{ info.name }}</h2>
-  </div>
+  <nuxt-link :to="`/references/${key}`">
+    <div class="p-3 relative news">
+      <img
+        :src="titleImgPath"
+        :alt="info.name"
+        class="w-full img"
+      >
+      <h2 class="title">{{ info.name }}</h2>
+    </div>
+  </nuxt-link>
 </template>
 
 <script>

@@ -57,6 +57,8 @@ async function processImages(currentPath, folder) {
 
     if (fileNameWithoutExtension === 'title')
       data.title = image
+    else if (fileNameWithoutExtension === 'bg')
+      data.bg = image
     else
       data.images.push(image)
   })

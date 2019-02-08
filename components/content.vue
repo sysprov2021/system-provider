@@ -2,7 +2,7 @@
   <div>
     <div
       :style="bg"
-      :class="{scrolled: scrolled}"
+      :class="{scrolled: scrolled, full: full}"
       class="pageTitleWrapper"
     >
       <h1
@@ -36,6 +36,14 @@
       page: {
         type: String,
         default: 'home'
+      },
+      full: {
+        type: Boolean,
+        default: false
+      },
+      img: {
+        type: String,
+        default: undefined
       }
     },
 
@@ -47,8 +55,14 @@
 
     computed: {
       bg() {
+        let imagePath
+        if(this.img)
+          imagePath = `/img/${this.img}`
+        else
+          imagePath = `/pages/${this.page}/bg.jpg`
+
         return {
-          backgroundImage: `url(/pages/${this.page}/bg.jpg)`
+          backgroundImage: `url(${imagePath})`
         }
       }
     },
@@ -90,8 +104,14 @@
   opacity: 1
   transition: opacity 500ms
 
+  &.full
+    height: 90vh
+
+    ~ .container
+      padding-top: 90vh
+
   &.scrolled
-    opacity: 0.3
+    opacity: 0.2
 
   .pageTitle
     @apply text-center absolute

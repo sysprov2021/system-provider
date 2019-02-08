@@ -1,0 +1,12 @@
+name: NAME
+date: DATE
+location: LOCATION
+type: prod|local|tour
+videos:
+  - https://www.youtube.com/embed/CODE
+tickets: http://tickets
+links:
+  - title: Tour Promoter
+    url: http://google.com
+  - title: Official Homepage
+    url: http://google.com
