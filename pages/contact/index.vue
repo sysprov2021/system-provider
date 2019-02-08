@@ -38,9 +38,15 @@
         <Contact
           img="lisa_schwarzenbacher.jpg"
           name="Lisa Schwarzenbacher"
-          mobile="+43-699-146 354 30"
+          mobile="+43-676-95 54 039"
           tel="+43-1-897 29 69-33"
           mail="lisa@system-provider.com"
+        />
+        <Contact
+          img="bjoern_ladehoff.jpeg"
+          name="Björn „Buddle“ Ladehoff"
+          tel="+49-151-50 42 94 06"
+          mail="bjoern@system-provider.com"
         />
         <h2>Artist Managment</h2>
         <Contact
@@ -57,7 +63,19 @@
           tel="+43-1-897 29 69-41"
           mail="julia@system-provider.com"
         />
+        <h2>Backoffice / Prod. Assistant</h2>
+        <Contact
+          img="lidia_petrovski.jpeg"
+          name="Lidia Petrovski"
+          mobile="+43-676-95 520 10"
+          mail="lidia@system-provider.com"
+        />
         <h2>Accounting</h2>
+        <Contact
+          img="jana_ristic.jpeg"
+          name="Sladjana „Jana“ Ristic"
+          mail="buchhaltung@system-provider.com"
+        />
         <Contact
           img="christa_machulka.jpg"
           name="Christa Machulka"
