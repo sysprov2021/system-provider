@@ -32,6 +32,20 @@
     <div>
       <nuxt/>
     </div>
+    <footer class="container">
+      <div class="flex justify-between flex-row">
+        <div class="w-1/3"><p class="text-white">© 2006 - 2019 system provider</p></div>
+        <div class="w-1/3 text-center text-white">
+          <a href="tel:+4318972969">+43-1-897 29 69</a>
+          |
+          <a href="mailto:office@system-provider.com">office@system-provider.com</a>
+        </div>
+        <div class="w-1/3 text-right">
+          <nuxt-link to="/imprint">Imprint</nuxt-link>
+          <nuxt-link to="/agb">AGB</nuxt-link>
+        </div>
+      </div>
+    </footer>
   </div>
 </template>
 
@@ -114,6 +128,8 @@ a
         @apply opacity-100
 
 .markdown
+  white-space: pre-line
+
   p
     @apply my-2
     max-width: 40rem
@@ -123,5 +139,9 @@ a
     list-style-type: '✅'
     li
       @apply my-2 pl-4
+
+footer
+  @apply mt-6 p-4
+  border-top: 1px solid white
 
 </style>
