@@ -48,7 +48,7 @@
           tel="+49-151-50 42 94 06"
           mail="bjoern@system-provider.com"
         />
-        <h2>Artist Managment</h2>
+        <h2>Artist Management</h2>
         <Contact
           img="reingard_goessweiner.jpg"
           name="Reingard Gössweiner"
