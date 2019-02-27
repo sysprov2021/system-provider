@@ -1,28 +1,38 @@
 <template>
   <Content title="References">
-    <h1>Soon to be back! 😊</h1>
-    <!-- <ul>
-      <li
-        v-for="[name, meta] in artists"
-        :key="name"
-      >
-        <h2>{{ name }}</h2>
-        <p>{{ meta }}</p>
-        <nuxt-link :to="`/references/${name}`">VISIT</nuxt-link>
-      </li>
-    </ul> -->
+    <div class="references">
+      <Reference
+        v-for="artist in artists"
+        :key="artist[0]"
+        :data="artist"
+        :type="artist[1].type"
+      />
+    </div>
   </Content>
 </template>
 
 <script>
+import Reference from '~/components/reference'
 const allArtists = Object.entries($graph.artists)
 
 export default {
+
+  components: {
+    Reference
+  },
+
   data() {
     return {
       artists: allArtists
     }
-  }
+  },
 }
 </script>
+
+
+<style lang="sass" scoped>
+.references
+
+</style>
+
 
