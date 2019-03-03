@@ -60,7 +60,6 @@
         <Contact
           img="julia_gruber.jpg"
           name="Julia Gruber"
-          ...macht Babypause
           mail="julia@system-provider.com"
         />
         <h2>Backoffice / Prod. Assistant</h2>
