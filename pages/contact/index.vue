@@ -47,7 +47,7 @@
           name="Björn „Buddle“ Ladehoff"
           tel="+43-1-897 29 69-47"
           mobile="+49-151-50 42 94 06"
-          mail="bjoern@system-provider.com"
+          mail="buddle@system-provider.com"
         />
         <h2>Artist Management</h2>
         <Contact
@@ -60,15 +60,15 @@
         <Contact
           img="julia_gruber.jpg"
           name="Julia Gruber"
-          mobile="+43-676-95 520 10"
-          tel="+43-1-897 29 69-41"
+          ...macht Babypause
           mail="julia@system-provider.com"
         />
         <h2>Backoffice / Prod. Assistant</h2>
         <Contact
           img="lidia_petrovski.jpeg"
           name="Lidia Petrovski"
-          mobile="+43-676-95 520 10"
+          mobile="+43-676-955 20 20"
+          tel="+43-1-897 29 69-41
           mail="lidia@system-provider.com"
         />
         <h2>Accounting</h2>
