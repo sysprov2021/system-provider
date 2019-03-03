@@ -5,6 +5,8 @@ type: local
 videos:
   url: https://www.youtube.com/embed/0Z5j9350no4
 tickets:
+  Title: Tickets
   url: https://www.ticketmaster.at/artist/metallica-tickets/1240
 Artist: 
+  Title: Homepage 
   url: https://www.metallica.com/ 
