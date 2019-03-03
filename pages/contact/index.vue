@@ -45,7 +45,8 @@
         <Contact
           img="bjoern_ladehoff.jpeg"
           name="Björn „Buddle“ Ladehoff"
-          tel="+49-151-50 42 94 06"
+          tel="+43-1-897 29 69-47"
+          mobile="+49-151-50 42 94 06"
           mail="bjoern@system-provider.com"
         />
         <h2>Artist Management</h2>
@@ -74,14 +75,10 @@
         <Contact
           img="jana_ristic.jpeg"
           name="Sladjana „Jana“ Ristic"
-          mail="buchhaltung@system-provider.com"
-        />
-        <Contact
-          img="christa_machulka.jpg"
-          name="Christa Machulka"
           tel="+43-1-897 29 69-50"
           mail="buchhaltung@system-provider.com"
         />
+       
       </div>
       <div class="contactDetails">
         <div>
