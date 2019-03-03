@@ -59,9 +59,8 @@
         <h2>Production Assistant</h2>
         <Contact
           img="julia_gruber.jpg"
-          name="Julia Gruber"
+          name="Julia Gruber - In Babypause"
           mail="julia@system-provider.com"
-          <h1>...macht Babypause...</h1>
         />
         <h2>Backoffice / Prod. Assistant</h2>
         <Contact
