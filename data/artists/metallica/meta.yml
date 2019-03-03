@@ -4,9 +4,8 @@ location: Ernst Happel Stadion | Wien
 type: local
 videos:
   url: https://www.youtube.com/embed/0Z5j9350no4
-tickets:
-  title: Tickets
+links:
+  - title: Tickets
   url: https://www.ticketmaster.at/artist/metallica-tickets/1240
-links: 
-  title: Official Metallica Homepage 
+  - title: Official Metallica Homepage 
   url: https://www.metallica.com/ 
