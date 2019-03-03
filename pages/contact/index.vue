@@ -68,8 +68,14 @@
           img="lidia_petrovski.jpeg"
           name="Lidia Petrovski"
           mobile="+43-676-955 20 20"
-          tel="+43-1-897 29 69-41
+          tel="+43-1-897 29 69-41"
           mail="lidia@system-provider.com"
+        />
+        <Contact
+          img="milena_gutdeutsch.jpg"
+          name="Milena Gutdeutsch"
+          mobile="+43-676-67 30 797"
+          mail="milena@system-provider.com"
         />
         <h2>Accounting</h2>
         <Contact
