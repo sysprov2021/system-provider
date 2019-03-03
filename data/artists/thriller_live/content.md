@@ -1,8 +1,8 @@
 # SYSTEM PROVIDER COMPETENCE since 2009
 
-> technical supervising
-> technical staff
-> kinetik development
+- technical supervising
+- technical staff
+- kinetik development
 > additional sound equipment
 > additional lighting equipment
 > additional rigging equipment
