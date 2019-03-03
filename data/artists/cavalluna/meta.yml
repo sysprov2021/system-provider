@@ -3,7 +3,7 @@ date: 23.03. - 26.05.2019
 location: Innsbruck, Salzburg, Wien, Graz
 type: local
 videos:
-  url: <iframe width="560" height="315" src="https://www.youtube.com/embed/-_GeWpIi-BU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  url: https://www.youtube.com/embed/-_GeWpIi-BU
 tickets:
   - title: Tickets
     url: https://www.oeticket.com/noapp/tickets.html?fun=erdetail&affiliate=C18&doc=erdetaila&erid=2170469&referer_info=Cavalluna-Homepage
