@@ -1,11 +1,10 @@
+# 09.03.2019 / Vienna
 ## SYSTEM PROVIDER COMPETENCE 
+
 
 - local coordination
 - communication
 - local staff
-- CAD planning
-- local Equipment (fences /  barriers / floorcovers / rigging / electrics)
-- machines (cranes, lifts, forklifts, generators)
-- local authorisation clearing
+- local Equipment
 - security
 - catering
