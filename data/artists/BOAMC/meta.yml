@@ -4,7 +4,7 @@ location: Graz, Wien, München
 type: prod
 videos:
   - https://www.youtube.com/embed/fV8fygH3KxM
-promoter: PROMOTER
+  
 tickets:
   - title: Tickets
     url: https://www.showfactory.at/de/event-detail/1856/best-of-austria.html
