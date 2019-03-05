@@ -1,8 +1,9 @@
 ## SYSTEM PROVIDER COMPETENCE 
 
-- local coordination
+- local production coordination
 - communication
+- local authority clearing
 - local staff
 - local Equipment
-- security
-- catering
+- local security
+- local catering
