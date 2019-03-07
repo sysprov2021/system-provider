@@ -1,11 +1,10 @@
-# SYSTEM PROVIDER COMPETENCE since 2009
+####SYSTEM PROVIDER COMPETENCE####
 
-- technical supervising
-- technical staff
-- kinetik development
-- additional sound equipment
-- additional lighting equipment
-- additional rigging equipment
-- masking
++ local production coordination
++ local staff
++ CAD  planning
++ local Equipment (rigging / electrics)
++ licensing procedure
++ communication
 
-2009 - 2012 / 2014 / 2015 / 2018
+2016 / 2017 Vienna
