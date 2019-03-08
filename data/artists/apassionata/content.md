@@ -8,4 +8,4 @@
 + security
 + catering
 
-01. - 02.04.2017 Vienna
+01 - 02.04.2017 Vienna
