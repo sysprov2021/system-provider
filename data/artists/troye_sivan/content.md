@@ -1,10 +1,9 @@
-## SYSTEM PROVIDER COMPETENCE
+## SYSTEM PROVIDER COMPETENCE 
 
-+ local production coordination
-+ local staff
-+ CAD  planning
-+ local Equipment (rigging / electrics)
-+ licensing procedure
-+ communication
-
-2016 / 2017 Vienna
+- local production coordination
+- communication
+- local authority clearing
+- local staff
+- local Equipment
+- local security
+- local catering
