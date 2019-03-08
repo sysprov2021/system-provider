@@ -7,5 +7,3 @@
 + local authorisation clearing
 + security
 + catering
-
-01 - 02.04.2017 Vienna
