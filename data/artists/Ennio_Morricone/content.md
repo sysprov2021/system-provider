@@ -2,9 +2,6 @@
 
 + local production coordination
 + local staff
-+ CAD  planning
-+ local Equipment (rigging / electrics)
-+ licensing procedure
-+ communication
++ CAD planning
 
-2016 / 2017 Vienna
+08.02.2017 Vienna
