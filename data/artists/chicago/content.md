@@ -1,10 +1,8 @@
 # SYSTEM PROVIDER COMPETENCE
 
-+ local production coordination
-+ local staff
-+ CAD  planning
-+ local Equipment (rigging / electrics)
-+ licensing procedure
-+ communication
++ technical realisation and supervising
++ technical staff
++ sound equipment
++ lighting equipment
 
-Vienna 2016
+04.06. 
