@@ -9,6 +9,7 @@
 + local staff
 + security
 
+
 Dates:
 04.04.19: Graz, Helmut List Halle 
 05.04.19: Graz, Helmut List Halle 
