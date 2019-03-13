@@ -6,6 +6,5 @@
 + local Equipment (rigging / electrics)
 + local authorisation clearing
 + security
-+ catering
 
 01.04. - 02.04.2017
