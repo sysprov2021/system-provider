@@ -5,4 +5,5 @@
 + sound equipment
 + lighting equipment
 
-04.06. 
+04.06. - 11.08.2019 
+Germany, Austria
