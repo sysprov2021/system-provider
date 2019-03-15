@@ -2,3 +2,11 @@ name: Anderson Paak
 date: 27.03.2019
 location: Vienna, Gasometer
 type: local
+tickets:
+  - title: Tickets
+    url: https://www.ticketmaster.at/event/anderson-paak-the-free-nationals-tickets/12703
+links:
+  - title: Tour Promoter
+    url: https://www.livenation.de/show/1241732/anderson-paak-and-the-free-nationals-andy-s-beach-club-world-tour/wien/2019-03-27/de
+  - title: Official Homepage
+    url: http://www.andersonpaak.com
