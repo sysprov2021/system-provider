@@ -2,3 +2,13 @@ name: The World Of Hans Zimmer
 date: 12.04.2019
 location: Vienna, Graz
 type: local
+videos:
+  - https://www.youtube.com/embed/ftaUys9VACE
+tickets:
+  - title: Tickets
+    url: https://www.oeticket.com/noapp/tickets.html?fun=erdetail&affiliate=C18&doc=erdetaila&erid=1932502&referer_info=Zimmer-Homepage
+links:
+    - title: Tour Promoter
+    url: https://www.showfactory.at/de/event-detail/1807/the-world-of-hans-zimmer.html
+    - title: Official Homepage
+    url: https://www.worldofhanszimmer.com/de/
