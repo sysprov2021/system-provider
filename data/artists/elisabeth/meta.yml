@@ -2,3 +2,13 @@ name: Elisabeth
 date: 05.07.2019 - 06.07.2019
 location: Vienna, Schloss Schönbrunn
 type: production
+videos:
+  - https://www.youtube.com/embed/l9h6DflL7c0
+tickets:
+  - title: Tickets
+    url: https://www.oeticket.com/noapp/tickets.html?fun=erdetail&affiliate=C18&doc=erdetaila&erid=1602299&referer_info=Elisabeth-Homepage
+links:
+  - title: Tour Promoter
+    url: https://www.showfactory.at/de/event-detail/1797/elisabeth.html
+  - title: Official Homepage
+    url: http://www.elisabeth-schoenbrunn.at
