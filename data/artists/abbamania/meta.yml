@@ -2,3 +2,11 @@ name: ABBAMANIA
 date: 24.03.2019
 location: Vienna, Stadthalle D
 type: local
+videos:
+  - https://www.youtube.com/embed/K1LzLr3WP3M
+tickets:
+  - title: Tickets
+    url: https://www.oeticket.com/tickets.html?fun=erdetail&affiliate=C18&doc=erdetaila&erid=1847640&referer_info=Homepage_Abbamania
+links:
+  - title: Official Homepage
+    url: https://www.abbamania-the-show.de
