@@ -2,3 +2,11 @@ name: annenmaykantereit
 date: 2019
 location: Vienna, Graz, Innsbruck
 type: local
+tickets:
+  - title: Tickets
+    url: https://krasserstoff.com/annenmaykantereit/
+links:
+    - title: Tour Promoter
+    url: https://www.arcadia-live.com/shows/04-Apr-2019-annenmaykantereit/4562
+    - title: Official Homepage
+    url: https://www.annenmaykantereit.com
