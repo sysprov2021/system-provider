@@ -11,6 +11,8 @@ async function processFolder(folder, inputPath) {
   const currentPath = path.join(inputPath, '/', folder)
   const metaFilePath = path.join(currentPath, '/meta.yml')
 
+  console.log(folder, metaFilePath)
+
   // Process available images, and return list of imagepath
   const metaContent = await processYamlFile(metaFilePath, {
     date: '',
