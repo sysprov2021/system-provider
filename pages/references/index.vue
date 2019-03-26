@@ -2,7 +2,7 @@
   <Content title="References">
     <div class="references">
       <div class="filters">
-        <h4>Filter the refernces:</h4>
+        <h4>Filter the references:</h4>
         <input
           v-model="filterValue"
           placeholder="Name..."

@@ -6,7 +6,7 @@
         <h2>to System Provider</h2>
       </div>
     </template>
-    <section class="flex justify-center">
+    <section class="md:flex justify-center">
       <div class="flex-1">
         <div class="groupTitle text-center">
           <img

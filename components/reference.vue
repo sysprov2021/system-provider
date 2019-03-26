@@ -1,7 +1,7 @@
 <template>
   <nuxt-link
     :to="`/references/${key}`"
-    class="border-none w-1/3">
+    class="border-none sm:w-1/2 md:w-1/3">
     <div class="p-3 relative reference">
       <img
         :src="titleImgPath"
