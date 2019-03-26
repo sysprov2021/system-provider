@@ -3,8 +3,8 @@
     title="Company"
     page="company"
   >
-    <div class="flex">
-      <div class="sections">
+    <div class="flex flex-col md:flex-row">
+      <div class="sections flex flex-row md:flex-col justify-between md:justify-start">
         <div
           :class="{'is-active': selected == 'prod'}"
           class="sectionsItem"
@@ -83,7 +83,12 @@ export default {
 <style lang="sass" scoped>
 
 .sections
-  padding-right: 20px
+  @media screen and (max-width: config('screens.sm'))
+    margin-bottom: 60px
+
+  @media screen and (min-width: config('screens.sm'))
+    padding-right: 20px
+
   &Item
     @apply p-2 pr-4 relative
     width: 100px
@@ -102,6 +107,14 @@ export default {
         transform: translateY(-50%)
         height: 40px
         width: 40px
+
+        @media screen and (max-width: config('screens.sm'))
+          top: 100%
+          left: 50%
+          right: 0
+          transform: translate(-50%, 0px)
+          border-color: transparent
+          border-top-color: rgba(#fff, .1)
 
 
 
