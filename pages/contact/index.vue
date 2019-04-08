@@ -87,7 +87,7 @@
       </div>
       <div class="contactDetails">
         <div>
-          <h2>System Provider Production Group GmbH</h2>
+          <h2>SPG System Provider Production Group GmbH</h2>
           <br>
           <p>Karolinengasse 21</p>
           <p>A-1040 Vienna, Austria</p>
