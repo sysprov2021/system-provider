@@ -43,14 +43,14 @@
           mail="lisa@system-provider.com"
         />
         <Contact
-          img="bjoern_ladehoff.jpg"
+          img="bjoern_ladehoff.jpeg"
           name="Björn „Buddle“ Ladehoff"
           tel="+43-1-897 29 69-47"
           mobile="+49-151-50 42 94 06"
           mail="buddle@system-provider.com"
         />
         <Contact
-          img="frico_friedmann.jpeg"
+          img="frico_friedmann.jpg"
           name="Robert „Frico“ Friedmann"
           tel="+43-1-897 29 69-45"
           mobile="+43-676-725 79 43"
