@@ -53,7 +53,7 @@
           img="frico_friedmann.jpeg"
           name="Robert „Frico“ Friedmann"
           tel="+43-1-897 29 69-45"
-          mobile="+49-676-725 79 43"
+          mobile="+43-676-725 79 43"
           mail="frico@system-provider.com"
         />
         <h2>Artist Management</h2>
