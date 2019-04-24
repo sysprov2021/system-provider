@@ -72,5 +72,5 @@
     line-height: 1.4rem
 
 .avatar
-  width: 80px
+  width: 100px
 </style>
