@@ -49,6 +49,13 @@
           mobile="+49-151-50 42 94 06"
           mail="buddle@system-provider.com"
         />
+        <Contact
+          img="frico.jpeg"
+          name="Robert „Frico“ Friedmann"
+          tel="+43-1-897 29 69-45"
+          mobile="+49-676-725 79 43"
+          mail="frico@system-provider.com"
+        />
         <h2>Artist Management</h2>
         <Contact
           img="reingard_goessweiner.jpg"
