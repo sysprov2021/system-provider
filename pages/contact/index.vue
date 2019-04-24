@@ -43,7 +43,7 @@
           mail="lisa@system-provider.com"
         />
         <Contact
-          img="bjoern_ladehoff.jpeg"
+          img="bjoern_ladehoff.jpg"
           name="Björn „Buddle“ Ladehoff"
           tel="+43-1-897 29 69-47"
           mobile="+49-151-50 42 94 06"
