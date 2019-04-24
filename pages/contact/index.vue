@@ -29,7 +29,7 @@
           mail="andreas.busch@system-provider.com"
         />
         <Contact
-          img="andreas_huebner.jpg"
+          img="andy_huebner (2).jpg"
           name="Andreas Hübner"
           mobile="+43-676-95 559 68"
           tel="+43-1-897 29 69-46"
