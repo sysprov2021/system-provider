@@ -36,7 +36,7 @@
           mail="huebner@system-provider.com"
         />
         <Contact
-          img="lisa_schwarzenbacher.jpg"
+          img="lisa_schwarzenbacher_ (2).jpg"
           name="Lisa Schwarzenbacher"
           mobile="+43-676-95 54 039"
           tel="+43-1-897 29 69-33"
