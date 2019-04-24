@@ -22,14 +22,14 @@
           mail="rene@system-provider.com"
         />
         <Contact
-          img="andreas_busch (3).jpg"
+          img="andreas_busch (4).jpg"
           name="Andreas Busch"
           mobile="+43-676-727 77 87"
           tel="+43-1-897 29 69-43"
           mail="andreas.busch@system-provider.com"
         />
         <Contact
-          img="andy_huebner (2).jpg"
+          img="andy_huebner (3).jpg"
           name="Andreas Hübner"
           mobile="+43-676-95 559 68"
           tel="+43-1-897 29 69-46"
