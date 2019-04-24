@@ -50,7 +50,7 @@
           mail="buddle@system-provider.com"
         />
         <Contact
-          img="frico.jpeg"
+          img="frico_friedmann.jpeg"
           name="Robert „Frico“ Friedmann"
           tel="+43-1-897 29 69-45"
           mobile="+49-676-725 79 43"
