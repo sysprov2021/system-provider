@@ -9,4 +9,3 @@ SYSTEM PROVIDER COMPETENCE
 + local authorisation clearing
 + security
 + catering
-
