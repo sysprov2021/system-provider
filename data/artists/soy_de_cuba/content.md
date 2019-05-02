@@ -1,9 +1,14 @@
 ## SYSTEM PROVIDER COMPETENCE 
 
-+ technical supervising
-+ local masking
-+ local rigging
++ technical realisation and supervising
++ technical staff
++ local coordination
++ communication
++ local staff
 + CAD planning
++ local authorisation clearing
++ security
++ catering
 
-16.07.2019 - 04.08.2019
+03.04.2019 - 30.04.2019
 Germany
