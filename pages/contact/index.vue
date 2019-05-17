@@ -3,8 +3,10 @@
     title="Contact"
     page="contact"
   >
-    <div class="flex">
-      <div>
+    <div class="md:flex justify-center">
+      <div
+        class="flex-1"
+        style="min-width: 300px; max-width: 400px">
         <h2>Managing Director and Owner</h2>
         <Contact
           img="andreas_rescheneder.jpg"
@@ -90,9 +92,9 @@
           tel="+43-1-897 29 69-50"
           mail="buchhaltung@system-provider.com"
         />
-       
+
       </div>
-      <div class="contactDetails">
+      <div class="contactDetails flex-1">
         <div>
           <h2>SPG System Provider Production Group GmbH</h2>
           <br>
@@ -112,8 +114,8 @@
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.5420574291384!2d16.36902400000001!3d48.215436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07a350d46955%3A0x72bd768fd44a558b!2ssystem+provider+Theater+%26+Tournee+Produktions+GmbH!5e0!3m2!1sde!2sat!4v1422463340108"
             style="border:0"
-            width="800"
             height="400"
+            class="w-auto"
             frameborder="0"/>
         </div>
       </div>
@@ -132,8 +134,14 @@
 </script>
 
 <style lang="sass" scoped>
-  .contactDetails > div
-    @apply px-8 ml-4
-    border-left: 1px solid rgba(#fff, 5)
+  @media (min-width: 800px)
+    .contactDetails > div
+      @apply px-8 ml-4
+      border-left: 1px solid rgba(#fff, 5)
+
+  iframe
+    width: 100%
+
+
 
 </style>
