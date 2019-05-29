@@ -1,9 +1,9 @@
 # SYSTEM PROVIDER COMPETENCE
 
-- local production coordination
-- CAD planning
-- local Equipment (fences / barriers / floorcovers / rigging / electrics)
-- communication
-- local authority clearing
-- local staff
-- security
+- technical realisation and supervising
+- technical staff
+- stage development
+- sound equipment
+- lighting equipment
+
+2018 - Germany, Austria
