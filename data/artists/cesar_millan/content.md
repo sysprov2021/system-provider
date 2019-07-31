@@ -7,4 +7,4 @@
 + local authorisation clearing
 + security
 
-30.10.2019 Stadthalle D, Vienna
+30.10.2019 Vienna, Stadthalle D
