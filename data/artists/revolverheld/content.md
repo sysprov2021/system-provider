@@ -1,7 +1,5 @@
 ## SYSTEM PROVIDER COMPETENCE
 
-## SYSTEM PROVIDER COMPETENCE
-
 + local production coordination
 + communication
 + local authority clearing
