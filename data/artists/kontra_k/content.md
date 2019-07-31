@@ -8,4 +8,4 @@
 + local staff
 + security
 
-10.08.2019 Arena Open Air, Vienna
+10.08.2019 + 11.08.2019 Arena Open Air, Vienna
