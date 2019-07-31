@@ -1,9 +1,11 @@
 ## SYSTEM PROVIDER COMPETENCE
 
 + local production coordination
-+ CAD planning
++ CAD planning 
++ local Equipment ( fences /  barriers / rigging / electrics) 
 + communication
 + local authority clearing
 + local staff
++ security
 
-20.05.2019, Vienna Stadthalle D
+25.10.2019 - Gasometer, Vienna
