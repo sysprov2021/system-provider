@@ -6,4 +6,4 @@
 + local staff
 + security
 
-01.11.2019 Stadthalle D, Vienna
+01.11.2019 Vienna, Stadthalle D
