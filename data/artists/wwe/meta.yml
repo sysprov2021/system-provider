@@ -1,0 +1,12 @@
+name: WWE
+date: 11.11.2019
+location: Vienna, Stadthalle D
+type: local
+tickets:
+  - title: Tickets
+    url: https://www.ticketmaster.at/artist/wwe-live-tickets/920144?brand=de_livenation
+links:
+  - title: Tour Promoter
+    url: https://www.livenation.de
+  - title: Official Homepage
+    url: https://de.wwe.com
