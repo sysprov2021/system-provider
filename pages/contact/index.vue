@@ -52,7 +52,7 @@
           mail="buddle@system-provider.com"
         />
         <Contact
-          img="missing.jpg"
+          img="Matthias_Pfeiffer_2.jpg"
           name="Matthias Pfeiffer"
           tel="+43-1-897 29 69-45"
           mobile="+43-650-313 00 34"
