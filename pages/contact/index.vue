@@ -52,11 +52,11 @@
           mail="buddle@system-provider.com"
         />
         <Contact
-          img="frico_friedmann.jpg"
-          name="Robert „Frico“ Friedmann"
+          img="missing.jpg"
+          name="Matthias Pfeiffer"
           tel="+43-1-897 29 69-45"
-          mobile="+43-676-725 79 43"
-          mail="frico@system-provider.com"
+          mobile="+43-650-313 00 34"
+          mail="matthias@system-provider.com"
         />
         <h2>Artist Management</h2>
         <Contact
