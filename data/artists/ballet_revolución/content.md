@@ -7,3 +7,5 @@
 + lighting equipment
 
 Germany / Austria / Switzerland since 2011
+December 2019 - Germany
+January to April - Germany
