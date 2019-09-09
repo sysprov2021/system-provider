@@ -1,9 +1,10 @@
-## 02.10.2018 - 24.02.2019 / Germany / Austria
-## 02. - 07.07.2019 Graz Oper
-
 # SYSTEM PROVIDER COMPETENCE from 1997 up to the present (all European Tours)
 
-- technical supervising
+- technical realisation and supervising
 - local masking
 - local rigging
-- CAD planning
+
+02.10.2018 - 24.02.2019 / Germany / Austria
+02.- 07.07.2019 Graz Oper
+December 2019 - Germany
+January, February 2020 - Germany
