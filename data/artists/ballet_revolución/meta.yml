@@ -2,6 +2,8 @@ name: Ballet Revolución
 date: 2019 - 2020
 location: Germany
 type: tour
+videos:
+  - https://www.youtube.com/embed/5ZqdaoCsi8M
 tickets:
   - title: Tickets
     url: http://www.ballet-revolucion.de/tickets/
