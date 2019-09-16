@@ -2,3 +2,15 @@ name: Der Herr der Ringe
 date: 03.12. - 07.12.2019
 location: Germany, Austria
 type: tour
+videos:
+- https://www.youtube.com/embed/HTJXpa1gvHE
+  tickets:
+  - title: Tickets Austria
+    url: https://www.oeticket.com/artist/der-herr-der-ringe/der-herr-der-ringe-das-original-live-die-rueckkehr-des-koenigs-1917530/
+  - title: Tickets Germany
+    url: https://www.eventim.de/artist/der-herr-der-ringe-die-spielfilm-trilogie/
+links:
+  - title: Tour Promoter Germany
+    url: http://www.bb-promotion.com/veranstaltungen/der-herr-der-ringe-die-rueckkehr-des-koenigs/
+  - title: Tour Promoter Austria
+    url: https://showfactory.at/events/der-herr-der-ringe-das-original-live
