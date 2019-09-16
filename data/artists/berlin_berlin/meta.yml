@@ -2,3 +2,13 @@ name: Berlin Berlin
 date: 2019 - 2020
 location: Germany
 type: tour
+videos:
+  - https://www.youtube.com/embed/pVQTKciIuTw
+tickets:
+  - title: Tickets
+    url: https://www.berlinberlin-show.com/die-tickets.html#go
+links:
+  - title: Tour Promoter
+    url: http://www.bb-promotion.com/veranstaltungen/berlin-berlin/
+  - title: Official Homepage
+    url: https://www.berlinberlin-show.com
