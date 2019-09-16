@@ -2,7 +2,7 @@
 
 + local production coordination
 + CAD planning 
-+ local Equipment ( fences /  barriers / floorcovers / rigging / electrics) 
++ local Equipment ( fences /  barriers / rigging / electrics) 
 + communication
 + local authority clearing
 + local staff
