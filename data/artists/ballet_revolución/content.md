@@ -6,6 +6,6 @@
 + sound equipment
 + lighting equipment
 
-Germany / Austria / Switzerland since 2011
+since 2011 - Germany / Austria / Switzerland
 December 2019 - Germany
 January to April - Germany
