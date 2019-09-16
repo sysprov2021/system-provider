@@ -2,3 +2,11 @@ name: African Angels
 date: 2019 - 2020
 location: Germany 
 type: tour
+tickets:
+  - title: Tickets Deutschland
+    url: https://www.eventim.de/artist/african-angels/
+links:
+  - title: Tour Promoter
+    url: http://www.bb-promotion.com/veranstaltungen/african-angels/
+  - title: Official Homepage
+    url: https://www.musical.ch/de/africanangels
