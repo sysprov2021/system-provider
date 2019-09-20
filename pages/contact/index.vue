@@ -24,14 +24,14 @@
           mail="rene@system-provider.com"
         />
         <Contact
-          img="andreas_busch (4).jpg"
+          img="andreas_busch.jpg"
           name="Andreas Busch"
           mobile="+43-676-727 77 87"
           tel="+43-1-897 29 69-43"
           mail="andreas.busch@system-provider.com"
         />
         <Contact
-          img="andy_huebner (3).jpg"
+          img="andy_huebner.jpg"
           name="Andreas Hübner"
           mobile="+43-676-95 559 68"
           tel="+43-1-897 29 69-46"
@@ -45,7 +45,7 @@
           mail="buddle@system-provider.com"
         />
         <Contact
-          img="Matthias_Pfeiffer_2.jpg"
+          img="Matthias_Pfeiffer.jpg"
           name="Matthias Pfeiffer"
           tel="+43-1-897 29 69-45"
           mobile="+43-650-313 00 34"
