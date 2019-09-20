@@ -38,13 +38,6 @@
           mail="huebner@system-provider.com"
         />
         <Contact
-          img="lisa_schwarzenbacher_ (2).jpg"
-          name="Lisa Schwarzenbacher"
-          mobile="+43-676-95 54 039"
-          tel="+43-1-897 29 69-33"
-          mail="lisa@system-provider.com"
-        />
-        <Contact
           img="bjoern_ladehoff.jpeg"
           name="Björn „Buddle“ Ladehoff"
           tel="+43-1-897 29 69-47"
