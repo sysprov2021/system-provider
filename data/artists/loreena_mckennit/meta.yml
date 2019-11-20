@@ -1,12 +1,10 @@
-name: Loreena McKennit
-date: 31.03.2019
+name: One Night of Tina
+date: 13.12.2019
 location: Vienna, Stadthalle F
 type: local
 tickets:
   - title: Tickets
-    url: https://www.ticketmaster.at/event/loreena-mckennitt-tickets/11879
+    url: https://www.oeticket.com/artist/one-night-of-tina/?affiliate=C18&utm_campaign=lsk&utm_medium=dp&utm_source=C18
 links:
-  - title: Tour Promoter
-    url: https://www.livenation.de/show/1172842/loreena-mckennitt/wien/2019-03-31/de
-  - title: Official Homepage
-    url: https://loreenamckennitt.com
+  - title: Local Promoter
+    url: https://showfactory.at/events/one-night-of-tina
