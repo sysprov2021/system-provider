@@ -2,3 +2,9 @@ name: Sissy - der Originalfilm mit Live-Orchester
 date: 20.12.2019
 location: Wiener Stadthalle D
 type: local
+tickets:
+  - title: Tickets
+    url: https://www.oeticket.com/artist/sissi-der-originalfilm/
+links:
+  - title: Tour Promoter
+    url: https://showfactory.at/events/sissi/
