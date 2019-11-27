@@ -4,4 +4,4 @@
 + local staff
 + communication
 
-26.01.2020 - Vienna, Gasometer
+15.11.2019 - Vienna, Gasometer
