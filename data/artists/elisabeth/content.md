@@ -4,8 +4,7 @@
 + CAD planning 
 + local Equipment ( fences /  barriers / floorcovers / rigging / electrics) 
 + Plants (cranes, lifts, forklifts)
-+ communication
-+ local authority clearing
 + local staff
 + security
-+ Stagedesign
+
+25.06.2020 - 27.06.2020 Vienna, Schloss Schoenbrunn
