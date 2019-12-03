@@ -76,6 +76,7 @@
           img="milena_gutdeutsch.jpg"
           name="Milena Gutdeutsch"
           mobile="+43-676-67 30 797"
+          tel="+43-1-897 29 69-33"
           mail="milena@system-provider.com"
         />
         <h2>Accounting</h2>
