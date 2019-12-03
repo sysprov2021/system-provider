@@ -6,4 +6,4 @@
 + local authority clearing
 + local staff
 
-20.05.2019, Vienna Stadthalle D
+15.05.2020 & 16.05.2020 Vienna, Stadthalle D
