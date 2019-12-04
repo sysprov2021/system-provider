@@ -8,4 +8,4 @@
 + security
 + catering
 
-13.11.2019 - 17.11.2019 Graz, Stadthalle
+25.03.2020 - 29.03.2020 Vienna, Stadthalle D
