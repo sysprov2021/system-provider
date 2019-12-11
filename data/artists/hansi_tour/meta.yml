@@ -1,6 +1,9 @@
 name: Hansi Hinterseer Tour
 type: prod
 links:
+  videos:
+  - https://www.youtube.com/embed/8to7A6boWGA
+  - https://www.youtube.com/embed/70HfqoLS_dE
   tickets:
   - title: Tickets
     url: https://hansi-hinterseer.at
