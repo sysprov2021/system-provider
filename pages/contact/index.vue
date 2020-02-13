@@ -1,12 +1,7 @@
 <template>
-  <Content
-    title="Contact"
-    page="contact"
-  >
+  <Content title="Contact" page="contact">
     <div class="md:flex justify-center">
-      <div
-        class="flex-1"
-        style="min-width: 300px; max-width: 400px">
+      <div class="flex-1" style="min-width: 300px; max-width: 400px">
         <h2>Managing Director and Owner</h2>
         <Contact
           img="andreas_rescheneder.jpg"
@@ -60,6 +55,12 @@
         />
         <h2>Production Assistant</h2>
         <Contact
+          img="stefanie_putz.jpg"
+          name="Stefanie Putz"
+          mobile="+43 650 49 32 223"
+          mail="stefanie@system-provider.com"
+        />
+        <Contact
           img="julia_gruber.jpg"
           name="Julia Gruber - In Babypause"
           mail="julia@system-provider.com"
@@ -86,31 +87,35 @@
           tel="+43-1-897 29 69-50"
           mail="buchhaltung@system-provider.com"
         />
-
       </div>
       <div class="contactDetails flex-1">
         <div>
           <h2>SPG System Provider Production Group GmbH</h2>
-          <br>
+          <br />
           <p>Karolinengasse 21</p>
           <p>A-1040 Vienna, Austria</p>
-          <br>
+          <br />
           <p><a href="tel:+43189729690">tel: +43-1-897 29 69-0</a></p>
-          <p><a href="mailto:office@system-provider.com">e-mail: office@system-provider.com</a></p>
-          <br>
+          <p>
+            <a href="mailto:office@system-provider.com"
+              >e-mail: office@system-provider.com</a
+            >
+          </p>
+          <br />
           <p>office hours: monday-friday 10:00-18:00</p>
-          <br>
+          <br />
           <p>VAT No. ATU 73694317</p>
           <p>Commercial register no. FN 497309m /Handelsgericht Wien</p>
           <p>Member of the chamber of commerce</p>
-          <br>
+          <br />
 
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.5420574291384!2d16.36902400000001!3d48.215436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07a350d46955%3A0x72bd768fd44a558b!2ssystem+provider+Theater+%26+Tournee+Produktions+GmbH!5e0!3m2!1sde!2sat!4v1422463340108"
             style="border:0"
             height="400"
             class="w-auto"
-            frameborder="0"/>
+            frameborder="0"
+          />
         </div>
       </div>
     </div>
@@ -118,24 +123,21 @@
 </template>
 
 <script>
-  import Contact from '~/components/contact'
+import Contact from "~/components/contact";
 
-  export default {
-    components: {
-      Contact
-    }
+export default {
+  components: {
+    Contact
   }
+};
 </script>
 
 <style lang="sass" scoped>
-  @media (min-width: 800px)
-    .contactDetails > div
-      @apply px-8 ml-4
-      border-left: 1px solid rgba(#fff, 5)
+@media (min-width: 800px)
+  .contactDetails > div
+    @apply px-8 ml-4
+    border-left: 1px solid rgba(#fff, 5)
 
-  iframe
-    width: 100%
-
-
-
+iframe
+  width: 100%
 </style>
