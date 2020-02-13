@@ -55,12 +55,6 @@
         />
         <h2>Production Assistant</h2>
         <Contact
-          img="stefanie_putz.jpg"
-          name="Stefanie Putz"
-          mobile="+43 650 49 32 223"
-          mail="stefanie@system-provider.com"
-        />
-        <Contact
           img="julia_gruber.jpg"
           name="Julia Gruber - In Babypause"
           mail="julia@system-provider.com"
@@ -79,6 +73,13 @@
           mobile="+43-676-67 30 797"
           tel="+43-1-897 29 69-33"
           mail="milena@system-provider.com"
+        />
+        <Contact
+          img="stefanie_putz.jpg"
+          name="Stefanie Putz"
+          mobile="+43 650 49 32 223"
+          tel="+43-1-897 29 68-33"
+          mail="steffi@system-provider.com"
         />
         <h2>Accounting</h2>
         <Contact
