@@ -29,7 +29,7 @@
 03.10.2020 - Ellmau, Stargast Hansi Hinterseer
 20.10.2020 - Dresden, Stargast Hansi Hinterseer
 21.10.2020 - Cottbus, Stargast Hansi Hinterseer
-07.11.2020 - Cottbus, Stargast Hansi Hinterseer
+07.11.2020 - Horsens, Stargast Hansi Hinterseer
 08.11.2020 - Aalborg, Stargast Hansi Hinterseer
 14.11.2020 - Passau, Hansi Hinterseer & Tiroler Echo
 10.12.2020 - Ehingen a.d. Donau, Stargast Hansi Hinterseer
