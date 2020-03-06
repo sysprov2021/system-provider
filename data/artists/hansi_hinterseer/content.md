@@ -15,7 +15,7 @@
 23.04.2020 - Rosenheim, Stargast Hansi Hinterseer
 24.04.2020 - Cham, Stargast Hansi Hinterseer
 25.04.2020 - Ingolstadt, Stargast Hansi Hinterseer
-16.06.2020 - Schwechat, Stargast Hansi Hinterseer
+16.05.2020 - Schwechat, Stargast Hansi Hinterseer
 17.05.2020 - Monswiller, Stargast Hansi Hinterseer
 23.05.2020 - Grenchen, Stargast Hansi Hinterseer
 29.05.2020 - Willhelmshaven, Stargast Hansi Hinterseer
