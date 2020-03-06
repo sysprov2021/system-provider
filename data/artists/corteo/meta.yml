@@ -1,9 +1,12 @@
 name: Corteo - Cirque du Soleil
-date: 25
-location: Graz, Stadthalle
+date: 25.03.2020 - 29.03.2020
+location: Vienna Stadthalle D
 type: local
+tickets:
+  - title: Tickets
+    url: https://www.oeticket.com/artist/cirque-du-soleil-corteo/cirque-du-soleil-corteo-2020-2462025/
 links:
   - title: Tour Promoter
-    url: https://www.livenation.de/artist/corteo-cirque-du-soleil-tickets
+    url: https://www.livenation.de/show/1260985/corteo-cirque-du-soleil/wien/2020-03-25/de
   - title: Official Homepage
     url: https://www.cirquedusoleil.com/corteo

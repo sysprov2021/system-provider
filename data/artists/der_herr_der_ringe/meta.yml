@@ -1,4 +1,12 @@
-name: Der Herr der Ringe - Die Zwei Türme
-date: 2018
+name: Der Herr der Ringe
+date: 03.12. - 07.12.2019
 location: Germany, Austria
-type: local
+type: tour
+videos:
+  - https://www.youtube.com/embed/eUqW3yBcTyk
+tickets:
+  - title: Tickets
+    url: https://www.eventim.de/artist/der-herr-der-ringe-die-spielfilm-trilogie/
+links:
+  - title: Tour Promoter
+    url: http://www.bb-promotion.com/veranstaltungen/der-herr-der-ringe-die-rueckkehr-des-koenigs/

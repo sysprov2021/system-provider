@@ -1,12 +1,7 @@
 <template>
-  <Content
-    title="Contact"
-    page="contact"
-  >
+  <Content title="Contact" page="contact">
     <div class="md:flex justify-center">
-      <div
-        class="flex-1"
-        style="min-width: 300px; max-width: 400px">
+      <div class="flex-1" style="min-width: 300px; max-width: 400px">
         <h2>Managing Director and Owner</h2>
         <Contact
           img="andreas_rescheneder.jpg"
@@ -24,25 +19,18 @@
           mail="rene@system-provider.com"
         />
         <Contact
-          img="andreas_busch (4).jpg"
+          img="andreas_busch.jpg"
           name="Andreas Busch"
           mobile="+43-676-727 77 87"
           tel="+43-1-897 29 69-43"
           mail="andreas.busch@system-provider.com"
         />
         <Contact
-          img="andy_huebner (3).jpg"
+          img="andy_huebner.jpg"
           name="Andreas Hübner"
           mobile="+43-676-95 559 68"
           tel="+43-1-897 29 69-46"
           mail="huebner@system-provider.com"
-        />
-        <Contact
-          img="lisa_schwarzenbacher_ (2).jpg"
-          name="Lisa Schwarzenbacher"
-          mobile="+43-676-95 54 039"
-          tel="+43-1-897 29 69-33"
-          mail="lisa@system-provider.com"
         />
         <Contact
           img="bjoern_ladehoff.jpeg"
@@ -52,7 +40,7 @@
           mail="buddle@system-provider.com"
         />
         <Contact
-          img="Matthias_Pfeiffer_2.jpg"
+          img="Matthias_Pfeiffer.jpg"
           name="Matthias Pfeiffer"
           tel="+43-1-897 29 69-45"
           mobile="+43-650-313 00 34"
@@ -83,7 +71,15 @@
           img="milena_gutdeutsch.jpg"
           name="Milena Gutdeutsch"
           mobile="+43-676-67 30 797"
+          tel="+43-1-897 29 69-33"
           mail="milena@system-provider.com"
+        />
+        <Contact
+          img="stefanie_putz.jpg"
+          name="Stefanie Putz"
+          mobile="+43 650 49 32 223"
+          tel="+43-1-897 29 68-33"
+          mail="steffi@system-provider.com"
         />
         <h2>Accounting</h2>
         <Contact
@@ -92,31 +88,35 @@
           tel="+43-1-897 29 69-50"
           mail="buchhaltung@system-provider.com"
         />
-
       </div>
       <div class="contactDetails flex-1">
         <div>
           <h2>SPG System Provider Production Group GmbH</h2>
-          <br>
+          <br />
           <p>Karolinengasse 21</p>
           <p>A-1040 Vienna, Austria</p>
-          <br>
+          <br />
           <p><a href="tel:+43189729690">tel: +43-1-897 29 69-0</a></p>
-          <p><a href="mailto:office@system-provider.com">e-mail: office@system-provider.com</a></p>
-          <br>
+          <p>
+            <a href="mailto:office@system-provider.com"
+              >e-mail: office@system-provider.com</a
+            >
+          </p>
+          <br />
           <p>office hours: monday-friday 10:00-18:00</p>
-          <br>
+          <br />
           <p>VAT No. ATU 73694317</p>
           <p>Commercial register no. FN 497309m /Handelsgericht Wien</p>
           <p>Member of the chamber of commerce</p>
-          <br>
+          <br />
 
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.5420574291384!2d16.36902400000001!3d48.215436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07a350d46955%3A0x72bd768fd44a558b!2ssystem+provider+Theater+%26+Tournee+Produktions+GmbH!5e0!3m2!1sde!2sat!4v1422463340108"
             style="border:0"
             height="400"
             class="w-auto"
-            frameborder="0"/>
+            frameborder="0"
+          />
         </div>
       </div>
     </div>
@@ -124,24 +124,21 @@
 </template>
 
 <script>
-  import Contact from '~/components/contact'
+import Contact from "~/components/contact";
 
-  export default {
-    components: {
-      Contact
-    }
+export default {
+  components: {
+    Contact
   }
+};
 </script>
 
 <style lang="sass" scoped>
-  @media (min-width: 800px)
-    .contactDetails > div
-      @apply px-8 ml-4
-      border-left: 1px solid rgba(#fff, 5)
+@media (min-width: 800px)
+  .contactDetails > div
+    @apply px-8 ml-4
+    border-left: 1px solid rgba(#fff, 5)
 
-  iframe
-    width: 100%
-
-
-
+iframe
+  width: 100%
 </style>

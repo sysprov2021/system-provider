@@ -9,3 +9,5 @@ SYSTEM PROVIDER COMPETENCE
 + local authorisation clearing
 + security
 + catering
+
+25.05.2020 Klagenfurt, Wörthersee Stadion
