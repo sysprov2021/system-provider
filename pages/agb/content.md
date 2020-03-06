@@ -1,3 +1,5 @@
+
+
 # PRIVACY POLICY
 We process your personal data exclusively within the framework of the provisions of the General Data Protection Regulation (GDPR) as well as the applicable national data protection regulations. For easier readability, we sometimes use the term “data”, although we usually mean personal data.
 In the following, we would like to inform you about the nature, scope and purpose of data collec-tion and data use, in accordance with the requirements of the GDPR:
@@ -151,6 +153,10 @@ VII.     Right to complaint to a supervisory authority
 Without prejudice to any other administrative or judicial remedy, you have the right to complain to a supervisory authority if you believe that the processing of your data is in violation of the GDPR. The supervisory authority as defined by the GDPR is the Data Protection Commission Austria, Ba-richgasse 40-42, 1030 Vienna, e-mail: dsb@dsb.gv.at.
 The Data Protection Commission will inform you about the status and the results of the complaint, including the possibility of a legal remedy.
 
+
+
+.
+..
 
 
 # General terms and conditions
