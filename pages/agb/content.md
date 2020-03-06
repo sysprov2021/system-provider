@@ -1,3 +1,157 @@
+# PRIVACY POLICY
+We process your personal data exclusively within the framework of the provisions of the General Data Protection Regulation (GDPR) as well as the applicable national data protection regulations. For easier readability, we sometimes use the term “data”, although we usually mean personal data.
+In the following, we would like to inform you about the nature, scope and purpose of data collec-tion and data use, in accordance with the requirements of the GDPR:
+ 
+1. Controller
+The data processing controller is:
+SPG System Provider Production Group GmbH
+Karolinengasse 21
+A-1040 Vienna
+Austria
+Tel.: +43 1 897 29 69
+E-Mail: office@system-provider.com
+
+2.   General information on data processing
+I.      Scope of processing
+We only collect and use the personal data of our users to the extent that this is necessary to pro-vide a functional website as well as our content and services. Therefore, we only process those personal data that you, as a user of the website and/or as a customer, provide to us through infor-mation, for example in the context of a request or registration or for the conclusion of a contract.
+
+II.      Legal basis for data processing
+The legal basis for data processing is
+your consent pursuant to Art. 6 (1) a GDPR. We only collect and use the data of our users with the user’s consent. An exception applies in cases where prior consent cannot be obtained for factual reasons and the processing of data is permitted by law.
+the initiation and fulfilment of contracts pursuant to Art. 6 (1) b GDPR. To process your request to your complete satisfaction or to get in contact with you, we require your data.
+the fulfilment of a legal obligation of our company pursuant to Art. 6 (1) c GDPR by passing on user data to authorities, such as the tax office, the health insurance provider or other public bodies.
+the protection of a legitimate interest of our company pursuant to Art. 6 (1) f GDPR. These gener-ally include marketing and advertising measures. As prospective customers and customers of our services, we would like to keep you up to date about news and promotions for our services or ac-tivities. These activities are subject to a balancing of interests and are not expected to affect the fundamental rights and freedoms of users.
+ 
+III.      Data erasure and storage duration
+Your personal data will be erased or blocked as soon as the purpose of storage ceases to apply. Furthermore, data may be stored if this has been provided for in EU regulations, laws or other pro-visions to which we as the controller are subject. The data will also be blocked or erased if a storage period prescribed by the aforementioned standards expires, unless there is a need for further storage of the data for the conclusion or fulfilment of a contract.
+
+3.  TRANSFER OF PERSONAL DATA
+If you as a user of our website and/or customer have made your data available to us, we will only use these to respond to your requests, to process contracts and for technical administration.
+Your data will only be passed on or transmitted by us to third parties if this is necessary for the purpose of contract processing or for billing purposes, or if you as a user of the website and/or customer have given your prior consent. As a user of the website and/or customer you have the right to withdraw your consent at any time with effect for the future.
+
+4.  PROVISION OF THE WEBSITE AND CREATION OF LOG FILES
+I.     Description and scope of data processing
+Every time you visit our website, our system automatically collects data and information from the computer system of the visiting computer.
+The following data are collected:
+Information about the browser type and version used
+The user’s operating system
+The user’s Internet service provider
+The user’s IP address
+Date and time of access
+Websites from which the user’s system accesses our website
+Websites visited by the user’s system via our website
+
+II.     Legal basis for data processing
+The legal basis for the temporary storage of data and log files is Art. 6 (1) f GDPR.
+
+III.     Purpose of data processing
+The temporary storage of the IP address by the system is necessary to enable the website to be delivered to the user’s computer. For this, the user’s IP address must remain stored for the dura-tion of the session.
+Your IP address is stored in log files to ensure the correct functioning of the website. In addition, the data help us to optimise the website and to ensure the security of our IT systems. The data are not analysed for marketing purposes in this context.
+Our legitimate interest in data processing pursuant to Art. 6 (1) f GDPR also lies in these purposes.
+
+IV.     Duration of storage/ objection and elimination option
+The data will be erased as soon as they are no longer required to achieve the purpose for which they were collected. In the case of the collection of data for the provision of the website, this is the case when the session in question has ended.
+If the data are stored in log files, this is the case after seven days at the latest. Storage beyond this is possible. In this case, the IP addresses of the users are erased or pseudonymised, so that it is no longer possible to allocate the visiting client.
+The collection of data for the provision of the website and the storage of data in log files is essential for the operation of the website. Consequently, it is not possible for the user to object.
+
+5.  Use of cookies
+Cookie Settings
+I.     Description and scope of data processing
+Our website uses cookies. Cookies are text files that are stored in the Internet browser or by the Internet browser on the user’s computer system. If a user visits a website, a cookie may be stored on the user’s operating system. This cookie contains a distinctive string that enables an unambigu-ous identification of the browser when the website is visited again.
+Technically necessary cookies:
+We use cookies to make our website more user-friendly. Some elements of our website require that the visiting browser can be identified even after a page change.
+The following data can be stored:
+Language settings
+Login information
+Non-technically necessary cookies:
+In addition, we use cookies on our website which enable an analysis of the user’s surfing behav-iour. In this way, the following data can be transmitted:
+Search terms entered
+Frequency of page views
+Use of website features
+When you visit our website, an information banner informs you about the use of cookies for analy-sis purposes and draws your attention to this Privacy Policy. In this context, there is also a note on how the storage of cookies can be prevented in the browser settings.
+
+II.     Legal basis of processing
+The legal basis for the processing of personal data using technically necessary cookies is Art. 6 (1) f GDPR.
+The legal basis for the processing of personal data using technically necessary cookies for analysis purposes is, where user consent to this has been obtained, Art. 6 (1) a GDPR.
+
+III.     Purpose of data processing
+The purpose of using technically necessary cookies is to simplify the use of websites for users. Some features of our website cannot be offered without the use of cookies. For these features, it is necessary for the browser to be recognised even after a page change.
+Accepting language settings
+Remembering search terms
+The user data collected by technically necessary cookies are not used to create user profiles.
+The analysis cookies are used for the purpose of improving the quality of our website and its con-tent. Through the analysis cookies we learn how the website is used and can thus constantly opti-mise our service. At this point, we would like to describe the exact purpose of analysis cookies in more detail.
+Our legitimate interest in processing personal data pursuant to Art. 6 (1) f GDPR also lies in these purposes.
+
+IV.     Duration of storage/ objection and elimination option
+Cookies are stored on the user’s computer and transferred to our site from here. Therefore, you as a user also have full control over the use of cookies. You can deactivate or restrict the transfer of cookies by changing the settings in your Internet browser. Cookies that have already been stored can be erased at any time. This can also be done automatically. If cookies are deactivated for our website, it may no longer be possible to use all features of the website in full.
+
+6.  web analysis services- google analytics
+I.     Scope of processing
+We use Google Analytics from Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA to analyse your surfing behaviour. These analysis services use “cookies”, which are text files that are stored on your computer and allow an analysis of the way in which you use this website. The information generated by the cookie about your use of this website (including your IP address) is transmitted to the servers of the web analysis services (Google: in the USA) and stored there. These analysis services will use this information to evaluate your use of the website, compile re-ports on website activity for the website operators and provide other services related to the use of the website and the Internet. The IP address transferred from the user’s browser as part of Google Analytics is not added to other Google data.
+If individual pages of our website are accessed, the following data are stored:
+Two bytes of the IP address of the user’s visiting system
+The website visited
+The website from which the user accessed the website visited (referrer)
+The subpages accessed from the website visited
+Duration of stay on the website
+The frequency of website visits
+
+II.     Legal basis for processing personal data
+The legal basis for the processing of your personal data is our legitimate interest pursuant to Art. 6 (1) f GDPR.
+
+III.     Purpose of data processing
+The processing of users’ personal data enables us to analyse the surfing behaviour of our users. Evaluating the data obtained allows us to compile information about the use of the individual com-ponents of our website. This helps us to continuously improve our website and its us-er-friendliness. These purposes are where our legitimate interest in processing the data pursuant to Art. 6 (1) f lies. By anonymising the IP address, users’ interest in the protection of their personal data is sufficiently taken into account.
+
+IV.    Duration of storage
+Data will be erased as soon as they are no longer needed for our recording purposes. In our case, this is after 7 days.
+
+V.     Objection and elimination option
+Cookies are stored on the user’s computer and transmitted to our site by this. Therefore, you as a user also have full control over the use of cookies. You can deactivate or restrict the transfer of cookies by changing the settings in your Internet browser. Cookies that have already been stored can be erased at any time. This can also be done automatically. If cookies are deactivated for our website, it may no longer be possible to use all features of the website in full.
+You can change the settings of your browser software to prevent cookies being stored. However, we must point out that doing so may mean that you can no longer use all features of our website in full. Furthermore, you can prevent the collection of the data created by the cookie and related to your use of the website (including your IP address) as well as the processing of these data by Google by downloading and installing the browser plugin available at the following link
+(tools.google.com/dlpage/gaoptout?hl=de).
+We offer the users of our website the option of opting out from the analysis process. To do this, follow this link: https://tools.google.com/dlpage/gaoptout?hl=de. In this way, another cookie is set on your system, which signals to our system not to store your data. If you delete this cookie from your system in the meantime, it must set the opt-out cookie again. For further information on terms of use and data protection, please visit www.google.com/analytics/terms/de.html or www.google.de/intl/de/policies/.
+
+7.  Rights of the user (data subject´s rights)
+If your personal data are processed, you are the data subject as defined by the GDPR and you have the following rights vis-à-vis us as the controller:
+
+I.     Right to information
+You can ask us for a confirmation of whether your personal data are processed by us. If such pro-cessing takes place, you can request the following information from us:
+The purposes and categories of personal data being processed, including the recipients or catego-ries of recipients to whom your data have been or will be disclosed and the planned duration of the storage of your data. Where we use profiling technologies, we will provide you with meaningful information about the logic involved and the scope and intended effects of such processing. We must also inform you of your right to complain to the data protection authority. You also have the right to request information as to whether your data are transferred to a third country.
+
+II.     Right to rectification
+You have a right to rectification and/or completion if your processed data are inaccurate or incom-plete. If applicable, we will make the rectification without delay.
+
+III.     Right to restriction of processing
+Under the following conditions, you may request that the processing of your data be restricted:
+if you dispute the accuracy of your data for a period of time that enables us to check the accuracy of your data;
+if the processing is unlawful and you reject the erasure of your data and instead request that the use of your data be restricted;
+if we no longer need your data for the processing purposes, but you need them to establish, exer-cise or defend legal claims, or
+if you have lodged an objection to the processing and it has not yet been determined whether our legitimate reasons override your reasons.
+Where the processing of your data has been restricted, such data may only be processed – apart from being stored – with your consent or for the purpose of establishing, exercising or defending legal claims or protecting the rights of another natural or legal person.
+If the processing restriction has been restricted in accordance with the above conditions, you will be notified by us before the restriction is lifted.
+
+IV.     Right to erasure
+We are obliged to erase your data without delay if one of the following reasons applies:
+Your data are no longer required for the purpose for which they were collected by us;
+You withdraw your consent (pursuant to Art. 6 (1) a) and there is no other legal basis for the pro-cessing.
+You object to the processing and there are no overriding legitimate reasons on our part for the processing.
+Your data have been processed illegally.
+The right to erasure does not apply to the extent that processing is necessary
+to fulfil a legal obligation that makes processing necessary (e.g. towards authorities and agencies) or to perform a task in the public interest entrusted to us;
+for establishing, exercising or defending legal claims.
+
+V.     Right to object
+You have the right to lodge an objection to the processing of your data at any time. We will then no longer process your data unless we have compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing serves to establish, exercise or de-fend legal claims.
+Where your data are processed for direct marketing purposes, you have the right to object at any time to the processing of your data for the purpose of such marketing; this also applies to profiling, to the extent that it is associated with such direct marketing. If you object to processing for direct marketing purposes, your data will no longer be processed for these purposes.
+
+VI.     Right to withdraw the data protection declaration of consent
+You have the right to withdraw your data protection declaration of consent at any time. The with-drawal of consent will not affect the legality of processing carried out on the basis of consent be-fore withdrawal.
+
+VII.     Right to complaint to a supervisory authority
+Without prejudice to any other administrative or judicial remedy, you have the right to complain to a supervisory authority if you believe that the processing of your data is in violation of the GDPR. The supervisory authority as defined by the GDPR is the Data Protection Commission Austria, Ba-richgasse 40-42, 1030 Vienna, e-mail: dsb@dsb.gv.at.
+The Data Protection Commission will inform you about the status and the results of the complaint, including the possibility of a legal remedy.
+
+
 
 # General terms and conditions
 ## I. General
