@@ -1,6 +1,6 @@
 <template>
   <Content
-    title="ABG"
+    title="ABG & Privacy Policy"
     page="imprint_agb"
   >
     <div
