@@ -4,6 +4,7 @@
       <div class="welcome">
         <h1>Welcome</h1>
         <h2>to System Provider</h2>
+        <h2>Important Note</h2>
       </div>
     </template>
     <section class="md:flex justify-center">
