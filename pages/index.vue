@@ -4,6 +4,8 @@
       <div class="welcome">
         <h1>Welcome</h1>
         <h2>to System Provider</h2>
+        <h2>temporary new office hours</h2>
+        <h2>Mon-Fri: 10-16</h2>
       </div>
     </template>
     <section class="md:flex justify-center">
