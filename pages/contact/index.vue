@@ -103,7 +103,7 @@
             >
           </p>
           <br />
-          <p>temporary new office hours: monday-friday 10:00-16:00</p>
+          <p>our office is temporary closed. </p>
           <br />
           <p>VAT No. ATU 73694317</p>
           <p>Commercial register no. FN 497309m /Handelsgericht Wien</p>
