@@ -3,9 +3,9 @@
     <template slot="title">
       <div class="welcome">
         <h1>Welcome</h1>
-        <h2>to System Provider</h2>
-        <h5>temporary new office hours</h5>
-        <h5>Mon-Fri: 10-16</h5>
+        <h2>to System Provider!</h2>
+        <h5>our office is temporary closed.</h5>
+        <h5>please contact us via mail & phone.</h5>
       </div>
     </template>
     <section class="md:flex justify-center">
