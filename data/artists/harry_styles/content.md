@@ -9,4 +9,4 @@
 + local authority clearing
 + local staff
 
-30.05.2020 Vienna, Stadthalle D
+30.05.2020 Vienna, Stadthalle D // postponed to 19.02.2020
