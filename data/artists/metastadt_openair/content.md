@@ -11,6 +11,11 @@
 - catering
 
 Artists:
-08.07.2019: The 1975
-09.07.2019: Greta von Fleet
-11.07.2019: Scooter
+11.07.2019: Within Temptation + support: Royal Republic
+12.07.2019: Karneval der Tiere
+13.07.2019: Ms. Lauryn Hill 
+14.07.2020: The Kooks
+15.07.2020: Sido
+17.07.2020: Gigi D'Agostino
+18.07.2020: alt-J
+14.07.2020: Sarah Connor
