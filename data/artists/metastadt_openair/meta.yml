@@ -1,7 +1,10 @@
 name: Meta Stadt Open Air
-date: 08. - 11.07.2019
+date: 11. - 19.07.2020
 location: Meta Stadt | Vienna
-type: local
+type: production
 links:
   - title: Official Homepage
-    url: https://www.facebook.com/arcadialivegmbh/posts/10156529926184965
+    url: https://www.metastadtopenairs.com
+tickets:
+  - title: Tickets
+    url: https://www.oeticket.com/city/wien-600/venue/h5-metastadt-wien-20938/
