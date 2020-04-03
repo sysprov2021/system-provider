@@ -4,7 +4,7 @@
       <div class="welcome">
         <h1>Welcome</h1>
         <h2>to System Provider!</h2>
-        <h5>our office is temporary closed.</h5>
+        <h5>our office is temporarily closed.</h5>
         <h5>please <a href="https://www.system-provider.com/contact/" >contact</a> us via mail & phone.</h5>
       </div>
     </template>
