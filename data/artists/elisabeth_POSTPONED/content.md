@@ -7,4 +7,4 @@
 + local staff
 + security
 
-25.06.2020 - 27.06.2020 Vienna, Schloss Schoenbrunn
+25.06.2020 - 27.06.2020 Vienna, Schloss Schoenbrunn // postponed to 01.07.2021 - 03.07.2021
