@@ -8,4 +8,4 @@
 + security
 + catering
 
-23.05.2020 - 21.06.2020 several locations
+12.06.2021 - 13.06.2021 Vienna, Stadthalle D
