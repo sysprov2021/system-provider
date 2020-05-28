@@ -1,7 +1,7 @@
 name: Elisabeth
 date: 01.07. - 03.07.2021
 location: Vienna, Schloss Schönbrunn
-type: production
+type: prod
 tickets:
   - title: Tickets
     url: https://www.oeticket.com/artist/elisabeth-das-musical/
