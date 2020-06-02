@@ -6,8 +6,6 @@
         <h2>to System Provider!</h2>
         <h5>our office is temporarily closed.</h5>
         <h5>please contact us via mail & phone.</h5>
-        <h5>. </h5>
-        <h6>RIP Michael Brenner † </h6>
       </div>
     </template>
     <section class="md:flex justify-center">
