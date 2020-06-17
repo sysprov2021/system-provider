@@ -1,5 +1,13 @@
 ## SYSTEM PROVIDER COMPETENCE
 
-+ local production coordination
++ entire technical planning and supervising
++ production design and concept
++ production coordination
++ local staff
++ CAD planning
++ Equipment (soundequipment / lightingequipment / videoequipment / rigging / electrics)
++ Plants (cranes, lifts, forklifts)
++ local authority clearing
++ security
 
-02.11.2017 - Vienna, Arena
+2001 - Germany
