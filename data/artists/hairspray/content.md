@@ -1,10 +1,10 @@
 ## SYSTEM PROVIDER COMPETENCE
 
++ production management
 + entire technical planning and supervising
-+ set construction
++ technical staff
 + sound equipment
 + lighting equipment
-+ technical staff
-+ production
++ video equipment
 
 2010 - Cologne
