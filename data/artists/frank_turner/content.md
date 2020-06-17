@@ -2,4 +2,4 @@
 
 + local production coordination
 
-26.10.2018 - Vienna, Arena
+26.10.2018 - Vienna
