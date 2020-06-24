@@ -7,4 +7,4 @@
 + video equipment
 + technical staff
 
-09.07.2016 - Kölner Sommerfest
+09.07.2016 - Kölner Sommerfestival
