@@ -11,9 +11,8 @@
 
 # upcoming shows: #
 
-21.08.2020 - Kufstein, Hansi Hinterseer & Tiroler Echo mit Chor // VERSCHOBEN (Ersatztermin wird in Kürze bekanntgegeben)
 20.10.2020 - Dresden, Stargast Hansi Hinterseer
-21.10.2020 - Cottbus, Stargast Hansi Hinterseer // VERSCHOBEN auf 24.11.2021
+24.10.2020 - Grenchen, Stargast Hansi Hinterseer 
 31.10.2020 - Bamberg, Hansi Hinterseer & Tiroler Echo
 07.11.2020 - Horsens, Hansi Hinterseer & Tiroler Echo
 08.11.2020 - Aalborg, Hansi Hinterseer & Tiroler Echo
@@ -31,8 +30,9 @@
 23.05.2021 - Paderborn, Stargast Hansi Hinterseer
 29.05.2021 - Frederiksberg, Stargast Hansi Hinterseer
 30.05.2021 - Wilhelmshaven, Stargast Hansi Hinterseer
-02.10.2021 - Ellmau, Stargast Hansi Hinterseer
-09.10.2021 - Ellmau, Stargast Hansi Hinterseer
+21.08.2021 - Kufstein, Hansi Hinterseer & Tiroler Echo
+01.10.2021 - Ellmau, Stargast Hansi Hinterseer
+08.10.2021 - Ellmau, Stargast Hansi Hinterseer
 23.11.2021 - Halle (Saale), Stargast Hansi Hinterseer
 24.11.2021 - Cottbus, Stargast Hansi Hinterseer
 25.11.2021 - Chemnitz, Stargast Hansi Hinterseer
