@@ -74,13 +74,6 @@
           tel="+43-1-897 29 69-33"
           mail="milena@system-provider.com"
         />
-        <Contact
-          img="stefanie_putz.jpg"
-          name="Stefanie Putz"
-          mobile="+43 650 49 32 223"
-          tel="+43-1-897 29 68-33"
-          mail="steffi@system-provider.com"
-        />
         <h2>Accounting</h2>
         <Contact
           img="jana_ristic.jpeg"
