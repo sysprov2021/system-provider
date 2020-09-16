@@ -2,9 +2,8 @@ name: Theater im Park
 date: 2021
 type: production
 location: Austria
-videos:
-  - https://www.youtube.com/watch?v=C_MT9FFcfF8 
+
 tickets:
-  - title: Tickets 
+  - title: Tickets & Homepage
     url: https://theaterimpark.at/ 
  
