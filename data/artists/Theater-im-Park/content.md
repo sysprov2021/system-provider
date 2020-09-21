@@ -9,3 +9,4 @@
 - audio & noise concept 
 - seating concept 
 
+Fotocredit: Markus Wache, Stefan Gergely
