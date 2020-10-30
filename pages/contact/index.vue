@@ -26,13 +26,6 @@
           mail="andreas.busch@system-provider.com"
         />
         <Contact
-          img="andy_huebner.jpg"
-          name="Andreas Hübner"
-          mobile="+43-676-95 559 68"
-          tel="+43-1-897 29 69-46"
-          mail="huebner@system-provider.com"
-        />
-        <Contact
           img="bjoern_ladehoff.jpeg"
           name="Björn „Buddle“ Ladehoff"
           tel="+43-1-897 29 69-47"
