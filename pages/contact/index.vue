@@ -97,7 +97,6 @@
           <br />
           <h2>Mitglied bei:</h2>
           <br />
-          <br />
           img="logo_livecom.jpg"
 
           <iframe
