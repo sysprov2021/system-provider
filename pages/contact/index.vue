@@ -95,7 +95,7 @@
           <p>Commercial register no. FN 497309m /Handelsgericht Wien</p>
           <p>Member of the chamber of commerce</p>
           <br />
-          <h2>Mitglied bei:</p>
+          <h2>Mitglied bei:</h2>
           <br />
           <br />
 
