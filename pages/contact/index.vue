@@ -98,10 +98,9 @@
           <h2>Mitglied bei:</h2>
           <br />
            <img src="http://livecom.at/wp-content/uploads/2020/11/Coming-Soon-white-on-black.001.png">
-           width="100"
+           width: 50%
           </p>
           <img src="https://www.oethg.at/wp-content/uploads/2019/02/oethg_logo.png">
-          width="100"
           </p>  
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.5420574291384!2d16.36902400000001!3d48.215436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07a350d46955%3A0x72bd768fd44a558b!2ssystem+provider+Theater+%26+Tournee+Produktions+GmbH!5e0!3m2!1sde!2sat!4v1422463340108"
