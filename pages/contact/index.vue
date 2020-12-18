@@ -99,7 +99,7 @@
           <br />
            <img src="http://livecom.at/wp-content/uploads/2020/11/Coming-Soon-white-on-black.001.png" height="108px" width="300px">
           </p>
-          <img src="https://www.oethg.at/wp-content/uploads/2019/02/oethg_logo.png">
+          <img src="https://www.oethg.at/wp-content/uploads/2019/02/oethg_logo.png" height="173,16px" width="302px">
           </p>
           <img src="https://www.vplt.org/sites/all/themes/vpltemplate/site/img/logo.png">
           </p>
