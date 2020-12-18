@@ -101,7 +101,7 @@
           </p>
           <img src="https://www.oethg.at/wp-content/uploads/2019/02/oethg_logo.png">
           </p>
-          <img src="https://www.vplt.org/sites/all/themes/vpltemplate/site/img/logo.png width="218px">
+          <img src="https://www.vplt.org/sites/all/themes/vpltemplate/site/img/logo.png" width="218px">
           </p>
           <br />
           <iframe
