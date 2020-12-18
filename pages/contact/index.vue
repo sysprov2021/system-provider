@@ -101,7 +101,7 @@
           </p>
           <img src="https://www.oethg.at/wp-content/uploads/2019/02/oethg_logo.png">
           </p>
-          <img src="file:///Users/milenagutdeutsch/Documents/System%20Provider/HP/VPLT_OM_Logo_RGB1.jpeg">
+          <img src="https://www.vplt.org/sites/all/themes/vpltemplate/site/img/logo.png">
           </p>
           <br />
           <iframe
