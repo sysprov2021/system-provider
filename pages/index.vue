@@ -6,6 +6,7 @@
         <h2>to System Provider!</h2>
         <h4>due to the pandemic we are partly working from home.</h4>
         <h4>please contact us via mail & phone.</h4>
+        <h4>"when you focus on the good, the good gets better."</h4>
       </div>
     </template>
     <section class="md:flex justify-center">
