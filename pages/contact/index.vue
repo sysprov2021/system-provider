@@ -89,7 +89,7 @@
             >
           </p>
           <br />
-          <p>our office is temporarily closed. </p>
+          <p>due to the pandemic we partly work from home office. </p>
           <br />
           <p>VAT No. ATU 73694317</p>
           <p>Commercial register no. FN 497309m /Handelsgericht Wien</p>
