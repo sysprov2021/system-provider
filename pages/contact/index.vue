@@ -89,7 +89,7 @@
             >
           </p>
           <br />
-          <p>due to the pandemic we partly work from home office. </p>
+          <p>due to the pandemic we partly work from home. </p>
           <br />
           <p>VAT No. ATU 73694317</p>
           <p>Commercial register no. FN 497309m /Handelsgericht Wien</p>
