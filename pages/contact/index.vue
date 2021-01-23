@@ -89,7 +89,7 @@
             >
           </p>
           <br />
-          <p>due to the pandemic we partly work from home. </p>
+          <p>due to the pandemic we are partly working from home. </p>
           <p>please do not hesitate to contact us via phone and email. </p>
           <br />
           <p>VAT No. ATU 73694317</p>
