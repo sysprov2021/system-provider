@@ -1,12 +1,12 @@
 name: Berlin Berlin
-date: 2020 - 2021
+date: 2022
 location: Germany
 type: production
 videos:
   - https://www.youtube.com/embed/pVQTKciIuTw
 tickets:
   - title: Tickets
-    url: https://www.berlinberlin-show.com/die-tickets.html#go
+    url: https://www.bb-promotion.com/veranstaltungen/berlin-berlin/
 links:
   - title: Tour Promoter
     url: http://www.bb-promotion.com/veranstaltungen/berlin-berlin/
