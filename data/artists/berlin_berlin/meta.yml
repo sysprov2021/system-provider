@@ -2,8 +2,6 @@ name: Berlin Berlin
 date: 2022
 location: Germany
 type: production
-videos:
-  - https://www.youtube.com/embed/pVQTKciIuTw
 tickets:
   - title: Tickets
     url: https://www.bb-promotion.com/veranstaltungen/berlin-berlin/
