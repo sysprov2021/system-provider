@@ -39,14 +39,5 @@
 
 # TV appearances: #
 
-14.11.2020 / 20:15 Uhr - Hansi Hinterseer Tuxertal-Paradies in den Zillertaler Alpen (ORF2, BR, HR, MDR)
-15.11.2020 / 20:15 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
-15.11.2020 / 21:45 - Melodien der Berge - Wildschönau, Alpbachtal, Brixental (BR)
-17.11.2020 / 14:50 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
-20.11.2020 / 17:50 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
-28.11.2020 / 14:50 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
-06.12.2020 / 12:20 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
-11.12.2020 / 14:50 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
-13.12.2020 / 20:15 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
-25.12.2020 / 14:50 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
-27.12.2020 / 17:50 - Hansi Hinterseer Weihnachten miteinander (Deutsches Musik Fernsehen)
+15.02.2021 / 20:15 - Hochwürderns Ärger mit dem Paradies (Melodie TV)
+
