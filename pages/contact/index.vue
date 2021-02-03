@@ -98,7 +98,7 @@
           <br />
           <h2>Mitglied bei:</h2>
           <br />
-           <img src="http://livecom.at/wp-content/uploads/2020/11/Coming-Soon-white-on-black.001.png" height="108px" width="300px">
+           <img src="file:///Users/milenagutdeutsch/Documents/livecom_logo1.png" height="108px" width="300px">
           </p>
           <img src="https://www.oethg.at/wp-content/uploads/2019/02/oethg_logo.png" height="173,16px" width="302px">
           </p>
