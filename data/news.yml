@@ -1,13 +1,22 @@
 news:
+<<<<<<< HEAD
   - berlin_berlin_POSTPONED
   - stomp_POSTPONED
   - ballet_revolución_POSTPONED
   - rocky_horror_POSTPONED
+=======
+  - berlin_berlin
+  - stomp
+  - ballet_revolución
+  - queen_POSTPONED
+  - rocky_horror
+>>>>>>> b680744dfbb8c26447182fe1a17ffea4cc9175fd
   - hansi_hinterseer
   - harry_styles_POSTPONED
-  - ricky_gervais_POSTPONED
-  - elisabeth_POSTPONED
+  - elisabeth
   - cavalluna_POSTPONED
   - abbamania_POSTPONED
   - rammstein_POSTPONED
   - Theater-im-Park
+  - the_simon_and_garfunkel_story
+  - thriller
