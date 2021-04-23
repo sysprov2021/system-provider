@@ -89,7 +89,8 @@
             >
           </p>
           <br />
-          <p>our office is temporarily closed. </p>
+          <p>due to the pandemic we are partly working from home. </p>
+          <p>please do not hesitate to contact us via phone and email. </p>
           <br />
           <p>VAT No. ATU 73694317</p>
           <p>Commercial register no. FN 497309m /Handelsgericht Wien</p>
@@ -97,7 +98,7 @@
           <br />
           <h2>Mitglied bei:</h2>
           <br />
-           <img src="http://livecom.at/wp-content/uploads/2020/11/Coming-Soon-white-on-black.001.png" height="108px" width="300px">
+           <img src="~/assets/livecom_logo1.png" width="302px">
           </p>
           <img src="https://www.oethg.at/wp-content/uploads/2019/02/oethg_logo.png" height="173,16px" width="302px">
           </p>
