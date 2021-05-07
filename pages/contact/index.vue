@@ -45,14 +45,14 @@
           name="Reingard Gössweiner"
           tel="+43-1-897 29 69-39"
           mail="artist@system-provider.com"
+        
         />
-        <h2>Production Assistant</h2>
-        <Contact
+        <h2>Backoffice / Prod. Assistant</h2>
+          <Contact
           img="julia_gruber.jpg"
           name="Julia Gruber - In Babypause"
           mail="julia@system-provider.com"
         />
-        <h2>Backoffice / Prod. Assistant</h2>
         <Contact
           img="lidia_petrovski.jpeg"
           name="Lidia Petrovski"
