@@ -3,5 +3,3 @@
 - technical realisation and supervising
 - local masking
 - local rigging
-
-27.07.- 01.08.2021 Köln, Philharmonie
