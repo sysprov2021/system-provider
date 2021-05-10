@@ -8,5 +8,6 @@
 + security
 + catering
 
-06.06.2020 - 07.06.2020 Vienna, Stadthalle D // postponed to 12.06.2021 - 13.06.2021 
-20.06.2020 - 21.06.2020 Salzburg, Salzburgarena // postponed to 19.06.2021 - 20.06.2021 
+14.05.2022 15 Uhr, Vienna, Stadthalle D
+14.05.2022 20 Uhr, Vienna, Stadthalle D
+15.05.2022 14 Uhr, Vienna, Stadthalle D
