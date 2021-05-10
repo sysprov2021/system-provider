@@ -7,4 +7,4 @@
 + local staff
 + security
 
-01.07.2021 - 03.07.2021 Vienna, Schloss Schoenbrunn
+30.06.2022 - 02.07.2022 Vienna, Schloss Schoenbrunn
