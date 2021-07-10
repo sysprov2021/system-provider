@@ -1,0 +1,12 @@
+name: Berlin Berlin
+date: 2022
+location: Germany
+type: production
+tickets:
+  - title: Tickets
+    url: https://www.bb-promotion.com/veranstaltungen/berlin-berlin/
+links:
+  - title: Tour Promoter
+    url: http://www.bb-promotion.com/veranstaltungen/berlin-berlin/
+  - title: Official Homepage
+    url: https://www.berlinberlin-show.com

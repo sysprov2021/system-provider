@@ -45,16 +45,16 @@
           name="Reingard Gössweiner"
           tel="+43-1-897 29 69-39"
           mail="artist@system-provider.com"
+        
         />
-        <h2>Production Assistant</h2>
-        <Contact
+        <h2>Backoffice / Prod. Assistant</h2>
+          <Contact
           img="julia_gruber.jpg"
           name="Julia Gruber"
           mobile="+43-676-955 59 68"
           tel="+43-1-897 29 69-41"
           mail="julia@system-provider.com"
         />
-        <h2>Backoffice / Prod. Assistant</h2>
         <Contact
           img="lidia_petrovski.jpeg"
           name="Lidia Petrovski"
@@ -91,13 +91,22 @@
             >
           </p>
           <br />
-          <p>our office is temporarily closed. </p>
+          <p>due to the pandemic we are partly working from home. </p>
+          <p>please do not hesitate to contact us via phone and email. </p>
           <br />
           <p>VAT No. ATU 73694317</p>
           <p>Commercial register no. FN 497309m /Handelsgericht Wien</p>
           <p>Member of the chamber of commerce</p>
           <br />
-
+          <h2>Mitglied bei:</h2>
+          <br />
+           <img src="~/assets/livecom_logo1.png" width="302px">
+          </p>
+          <img src="https://www.oethg.at/wp-content/uploads/2019/02/oethg_logo.png" height="173,16px" width="302px">
+          </p>
+          <img src="https://www.vplt.org/sites/all/themes/vpltemplate/site/img/logo.png">
+          </p>
+          <br />
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.5420574291384!2d16.36902400000001!3d48.215436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07a350d46955%3A0x72bd768fd44a558b!2ssystem+provider+Theater+%26+Tournee+Produktions+GmbH!5e0!3m2!1sde!2sat!4v1422463340108"
             style="border:0"

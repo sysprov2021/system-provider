@@ -1,8 +1,7 @@
-name: Theater im Park 
+name: Viktor Gernots Praterbühne
 date: 2021
 type: production
 location: Austria
 tickets:
   - title: Tickets & Homepage
-    url: https://theaterimpark.at/programm-tickets
- 
+    url: https://praterbuehne.at/tickets/

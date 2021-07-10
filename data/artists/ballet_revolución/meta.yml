@@ -1,0 +1,12 @@
+name: Ballet Revolución 
+date: 2022
+location: Germany
+type: tour
+tickets:
+  - title: Tickets
+    url: http://www.ballet-revolucion.de/tickets/
+links:
+  - title: Tour Promoter
+    url: http://www.bb-promotion.com/veranstaltungen/ballet-revolucion/
+  - title: Official Homepage
+    url: http://www.ballet-revolucion.de
