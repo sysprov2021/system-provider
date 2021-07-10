@@ -49,7 +49,9 @@
         <h2>Production Assistant</h2>
         <Contact
           img="julia_gruber.jpg"
-          name="Julia Gruber - In Babypause"
+          name="Julia Gruber"
+          mobile="+43-676-955 59 68"
+          tel="+43-1-897 29 69-41"
           mail="julia@system-provider.com"
         />
         <h2>Backoffice / Prod. Assistant</h2>
