@@ -57,9 +57,8 @@
         />
         <Contact
           img="lidia_petrovski.jpeg"
-          name="Lidia Petrovski"
-          mobile="+43-676-955 20 20"
-          tel="+43-1-897 29 69-41"
+          name="Lidia Petrovski - in Babypause"
+          
           mail="lidia@system-provider.com"
         />
         <Contact
