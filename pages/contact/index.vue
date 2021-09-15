@@ -105,7 +105,7 @@
           </p>
           <img src="https://www.vplt.org/sites/all/themes/vpltemplate/site/img/logo.png">
           </p>
-          <img src="https://i2.wp.com/verband.dthg.de/wp-content/uploads/2021/09/05_Zeichenflaeche-1-Kopie-3-1.png?w=409&ssl=1">
+          <img src="https://i2.wp.com/verband.dthg.de/wp-content/uploads/2021/09/05_Zeichenflaeche-1-Kopie-3-1.png?w=409&ssl=1" width="302px">
           </p>
           <br />
           <iframe
