@@ -6,10 +6,6 @@
 + lighting equipment
 + stage development
 
-02.11. - 14.11.2021 Köln, Musical Dome
-17.11. - 20.11.2021 Basel, Musical Theater
-23.11. - 11.12.2021 Wien, Museumsquartier
-14.12. - 16.12.2021 Mannheim, Rosengarten
 17.12. - 19.12.2021 Nürnberg, Frankenhalle
 26.12. - 31.12.2021 Dortmund, Konzerthaus
 04.01. - 09.01.2022 Hannover, Theater am Aegi
