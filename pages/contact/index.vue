@@ -35,9 +35,16 @@
         <Contact
           img="Matthias_Pfeiffer.jpg"
           name="Matthias Pfeiffer"
-          tel="+43-1-897 29 69-45"
+          tel="+43-1-897 29 69-46"
           mobile="+43-650-313 00 34"
           mail="matthias@system-provider.com"
+        />
+        <Contact
+          img="markus_messner.jpg"
+          name="Markus Messer"
+          tel="+43-1-897 29 69-45"
+          mobile="+43-650-313 00 34"
+          mail="markus@system-provider.com"
         />
         <h2>Artist Management</h2>
         <Contact
@@ -64,9 +71,14 @@
         <Contact
           img="milena_gutdeutsch.jpg"
           name="Milena Gutdeutsch"
-          mobile="+43-676-67 30 797"
           tel="+43-1-897 29 69-33"
           mail="milena@system-provider.com"
+        />
+        <Contact
+          img="lukas_hasitschka.jpg"
+          name="Lukas Hasitschka"
+          tel="+43-1-897 29 69-48"
+          mail="lukas@system-provider.com"
         />
         <h2>Accounting</h2>
         <Contact
