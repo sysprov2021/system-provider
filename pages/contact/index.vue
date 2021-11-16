@@ -43,7 +43,6 @@
           img="markus_messner.jpg"
           name="Markus Messer"
           tel="+43-1-897 29 69-45"
-          mobile="+43-650-313 00 34"
           mail="markus@system-provider.com"
         />
         <h2>Artist Management</h2>
