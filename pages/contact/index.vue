@@ -64,7 +64,6 @@
         <Contact
           img="lidia_petrovski.jpeg"
           name="Lidia Petrovski - in Babypause"
-          
           mail="lidia@system-provider.com"
         />
         <Contact
